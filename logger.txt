@@ -1,0 +1,1640 @@
+Crawler was running on no keywords shutting down
+ Keyword: بيتكوين, user_id : 1, key_id :574
+[2021-04-01 11:00:02.877579]A process is already running shutting OFF
+[2021-04-01 11:05:01.526742]A process is already running shutting OFF
+ Keyword: guns, user_id : 7, key_id :575
+[2021-04-01 11:10:02.958229]A process is already running shutting OFF
+[2021-04-01 11:15:01.685134]A process is already running shutting OFF
+ Keyword: safe, user_id : 7, key_id :576
+Crawler was running on no keywords shutting down
+ Keyword: faris, user_id : 7, key_id :577
+ Keyword: الجيش الحر, user_id : 1, key_id :578
+delete from contact_data where keyword = "الجيش الحر" and user_id = 1
+ Keyword: تساؤلات وشبهات, user_id : 1, key_id :579
+delete from contact_data where keyword = "تساؤلات وشبهات" and user_id = 1
+ Keyword: عملاء أمريكا, user_id : 1, key_id :580
+delete from contact_data where keyword = "عملاء أمريكا" and user_id = 1
+ Keyword: الغزوات المباركة, user_id : 1, key_id :581
+delete from contact_data where keyword = "الغزوات المباركة" and user_id = 1
+ Keyword: صوت الجهاد, user_id : 1, key_id :582
+delete from contact_data where keyword = "صوت الجهاد" and user_id = 1
+ Keyword: صدى الجهاد, user_id : 1, key_id :583
+delete from contact_data where keyword = "صدى الجهاد" and user_id = 1
+[2021-04-01 15:45:02.225804]A process is already running shutting OFF
+ Keyword: التحاكم إلى الطواغيت, user_id : 1, key_id :584
+delete from contact_data where keyword = "التحاكم إلى الطواغيت" and user_id = 1
+ Keyword: موالاة الكفار, user_id : 1, key_id :585
+delete from contact_data where keyword = "موالاة الكفار" and user_id = 1
+ Keyword: خائن الحرمين, user_id : 1, key_id :586
+delete from contact_data where keyword = "خائن الحرمين" and user_id = 1
+ Keyword: آل سلول, user_id : 1, key_id :587
+delete from contact_data where keyword = "آل سلول" and user_id = 1
+[2021-04-01 15:50:02.093684]A process is already running shutting OFF
+[2021-04-01 15:55:01.733508]A process is already running shutting OFF
+ Keyword: الشيخ أبو محمد المقدسي, user_id : 1, key_id :588
+delete from contact_data where keyword = "الشيخ أبو محمد المقدسي" and user_id = 1
+ Keyword: الشيخ أسامة بن لادن, user_id : 1, key_id :589
+delete from contact_data where keyword = "الشيخ أسامة بن لادن" and user_id = 1
+[2021-04-01 16:00:02.966489]A process is already running shutting OFF
+ Keyword: الشيخ أيمن الظواهري, user_id : 1, key_id :590
+delete from contact_data where keyword = "الشيخ أيمن الظواهري" and user_id = 1
+ Keyword: الخليفة أبو بكر البغدادي, user_id : 1, key_id :591
+delete from contact_data where keyword = "الخليفة أبو بكر البغدادي" and user_id = 1
+[2021-04-01 16:05:01.769568]A process is already running shutting OFF
+ Keyword: الشيخ أبو مصعب الزرقاوي, user_id : 1, key_id :592
+delete from contact_data where keyword = "الشيخ أبو مصعب الزرقاوي" and user_id = 1
+ Keyword: السحاب الإعلامية, user_id : 1, key_id :593
+delete from contact_data where keyword = "السحاب الإعلامية" and user_id = 1
+ Keyword: الجبهة الاعلامية الاسلامية العالمية, user_id : 1, key_id :594
+delete from contact_data where keyword = "الجبهة الاعلامية الاسلامية العالمية" and user_id = 1
+[2021-04-01 16:10:02.930179]A process is already running shutting OFF
+ Keyword: القائد عبدالعزيز المقرن, user_id : 1, key_id :595
+delete from contact_data where keyword = "القائد عبدالعزيز المقرن" and user_id = 1
+ Keyword: العدو القريب, user_id : 1, key_id :596
+delete from contact_data where keyword = "العدو القريب" and user_id = 1
+ Keyword: العدو البعيد, user_id : 1, key_id :597
+delete from contact_data where keyword = "العدو البعيد" and user_id = 1
+ Keyword: صليل الصوارم, user_id : 1, key_id :598
+delete from contact_data where keyword = "صليل الصوارم" and user_id = 1
+[2021-04-01 16:15:02.258600]A process is already running shutting OFF
+ Keyword: دولة الخلافة الإسلامية, user_id : 1, key_id :599
+delete from contact_data where keyword = "دولة الخلافة الإسلامية" and user_id = 1
+[2021-04-01 16:20:02.269126]A process is already running shutting OFF
+[2021-04-01 16:25:02.769785]A process is already running shutting OFF
+ Keyword: تنظيم القاعدة في جزيرة العرب, user_id : 1, key_id :600
+delete from contact_data where keyword = "تنظيم القاعدة في جزيرة العرب" and user_id = 1
+ Keyword: تنظيم القاعدة في بلاد الحرمين, user_id : 1, key_id :601
+delete from contact_data where keyword = "تنظيم القاعدة في بلاد الحرمين" and user_id = 1
+[2021-04-01 16:30:02.523715]A process is already running shutting OFF
+ Keyword: تنظيم القاعدة في, user_id : 1, key_id :602
+delete from contact_data where keyword = "تنظيم القاعدة في" and user_id = 1
+ Keyword: تنظيم القاعدة في بلاد الرافدين, user_id : 1, key_id :603
+delete from contact_data where keyword = "تنظيم القاعدة في بلاد الرافدين" and user_id = 1
+ Keyword: حركة شباب المجاهدين, user_id : 1, key_id :604
+delete from contact_data where keyword = "حركة شباب المجاهدين" and user_id = 1
+[2021-04-01 16:35:02.279320]A process is already running shutting OFF
+ Keyword: جماعة التوحيد والجهاد, user_id : 1, key_id :605
+delete from contact_data where keyword = "جماعة التوحيد والجهاد" and user_id = 1
+[2021-04-01 16:40:03.405249]A process is already running shutting OFF
+[2021-04-01 16:45:02.346506]A process is already running shutting OFF
+ Keyword: جبهة النصرة، الشيخ أبو محمد الجولاني, user_id : 1, key_id :606
+delete from contact_data where keyword = "جبهة النصرة، الشيخ أبو محمد الجولاني" and user_id = 1
+ Keyword: أسد الأمة, user_id : 1, key_id :607
+delete from contact_data where keyword = "أسد الأمة" and user_id = 1
+ Keyword: مقاطعة العدو, user_id : 1, key_id :608
+delete from contact_data where keyword = "مقاطعة العدو" and user_id = 1
+ Keyword: ترك الجهاد, user_id : 1, key_id :609
+delete from contact_data where keyword = "ترك الجهاد" and user_id = 1
+[2021-04-01 16:50:02.444587]A process is already running shutting OFF
+[2021-04-01 16:55:02.398049]A process is already running shutting OFF
+ Keyword: دار الإسلام, user_id : 1, key_id :610
+delete from contact_data where keyword = "دار الإسلام" and user_id = 1
+[2021-04-01 17:00:02.627967]A process is already running shutting OFF
+ Keyword: دار الكفر, user_id : 1, key_id :611
+delete from contact_data where keyword = "دار الكفر" and user_id = 1
+ Keyword: عملية عدن, user_id : 1, key_id :612
+delete from contact_data where keyword = "عملية عدن" and user_id = 1
+ Keyword: عملية الخبر, user_id : 1, key_id :613
+delete from contact_data where keyword = "عملية الخبر" and user_id = 1
+ Keyword: غزوة الحادي عشر من سبتمبر, user_id : 1, key_id :614
+delete from contact_data where keyword = "غزوة الحادي عشر من سبتمبر" and user_id = 1
+ Keyword: غزوة منهاتن, user_id : 1, key_id :615
+delete from contact_data where keyword = "غزوة منهاتن" and user_id = 1
+ Keyword: ترك السلاح, user_id : 1, key_id :616
+delete from contact_data where keyword = "ترك السلاح" and user_id = 1
+[2021-04-01 17:05:02.614877]A process is already running shutting OFF
+ Keyword: مؤسسة أعماق, user_id : 1, key_id :617
+delete from contact_data where keyword = "مؤسسة أعماق" and user_id = 1
+ Keyword: مؤسسة أجناد, user_id : 1, key_id :618
+delete from contact_data where keyword = "مؤسسة أجناد" and user_id = 1
+[2021-04-01 17:10:02.332306]A process is already running shutting OFF
+ Keyword: مؤسسة  السحاب, user_id : 1, key_id :619
+delete from contact_data where keyword = "مؤسسة  السحاب" and user_id = 1
+ Keyword: أمهات المجاهدين, user_id : 1, key_id :620
+delete from contact_data where keyword = "أمهات المجاهدين" and user_id = 1
+[2021-04-01 17:15:02.043649]A process is already running shutting OFF
+ Keyword: الشيخ يوسف العييري, user_id : 1, key_id :621
+delete from contact_data where keyword = "الشيخ يوسف العييري" and user_id = 1
+ Keyword: الحرب الصليبية الجديدة, user_id : 1, key_id :622
+delete from contact_data where keyword = "الحرب الصليبية الجديدة" and user_id = 1
+ Keyword: الذب عن المجاهدين, user_id : 1, key_id :623
+delete from contact_data where keyword = "الذب عن المجاهدين" and user_id = 1
+ Keyword: عملية مسرح موسكو’ الحرب الصليبية الجديدة, user_id : 1, key_id :624
+delete from contact_data where keyword = "عملية مسرح موسكو’ الحرب الصليبية الجديدة" and user_id = 1
+ Keyword: علماء السلطان, user_id : 1, key_id :625
+delete from contact_data where keyword = "علماء السلطان" and user_id = 1
+ Keyword: الطواغيت, user_id : 1, key_id :626
+delete from contact_data where keyword = "الطواغيت" and user_id = 1
+[2021-04-01 17:20:01.997372]A process is already running shutting OFF
+ Keyword: البراءة من المشركين, user_id : 1, key_id :627
+delete from contact_data where keyword = "البراءة من المشركين" and user_id = 1
+ Keyword: قيام الحجة, user_id : 1, key_id :628
+delete from contact_data where keyword = "قيام الحجة" and user_id = 1
+ Keyword: مشروعية الجهاد, user_id : 1, key_id :629
+delete from contact_data where keyword = "مشروعية الجهاد" and user_id = 1
+ Keyword: فرسان تحت رأية النبي, user_id : 1, key_id :630
+delete from contact_data where keyword = "فرسان تحت رأية النبي" and user_id = 1
+ Keyword: شقائق المجاهدين, user_id : 1, key_id :631
+delete from contact_data where keyword = "شقائق المجاهدين" and user_id = 1
+ Keyword: النفير للجهاد, user_id : 1, key_id :632
+delete from contact_data where keyword = "النفير للجهاد" and user_id = 1
+ Keyword: التحالف الصليبي, user_id : 1, key_id :633
+delete from contact_data where keyword = "التحالف الصليبي" and user_id = 1
+[2021-04-01 17:25:01.941498]A process is already running shutting OFF
+ Keyword: باقية وتتمدد, user_id : 1, key_id :634
+delete from contact_data where keyword = "باقية وتتمدد" and user_id = 1
+[2021-04-01 17:30:01.974425]A process is already running shutting OFF
+ Keyword: تنظيم الدولة الإسلامية في العراق والشام, user_id : 1, key_id :635
+delete from contact_data where keyword = "تنظيم الدولة الإسلامية في العراق والشام" and user_id = 1
+[2021-04-01 17:35:01.940433]A process is already running shutting OFF
+ Keyword: تنظيم الدولة الإسلامية في الشام, user_id : 1, key_id :636
+delete from contact_data where keyword = "تنظيم الدولة الإسلامية في الشام" and user_id = 1
+[2021-04-01 17:40:03.910823]A process is already running shutting OFF
+ Keyword: تنظيم الدولة الإسلامية في العراق, user_id : 1, key_id :637
+delete from contact_data where keyword = "تنظيم الدولة الإسلامية في العراق" and user_id = 1
+ Keyword: الانغماسيون, user_id : 1, key_id :638
+delete from contact_data where keyword = "الانغماسيون" and user_id = 1
+[2021-04-01 17:45:01.463914]A process is already running shutting OFF
+ Keyword: أنصار الدولة الإسلامية, user_id : 1, key_id :639
+delete from contact_data where keyword = "أنصار الدولة الإسلامية" and user_id = 1
+ Keyword: أسود الدولة الإسلامية, user_id : 1, key_id :640
+delete from contact_data where keyword = "أسود الدولة الإسلامية" and user_id = 1
+[2021-04-01 17:50:02.516270]A process is already running shutting OFF
+ Keyword: جنود الخلافة, user_id : 1, key_id :641
+delete from contact_data where keyword = "جنود الخلافة" and user_id = 1
+[2021-04-01 17:55:02.601195]A process is already running shutting OFF
+[2021-04-01 18:00:03.786348]A process is already running shutting OFF
+[2021-04-01 18:05:03.156567]A process is already running shutting OFF
+ Keyword: موقع الخلافة الإسلامية, user_id : 1, key_id :642
+delete from contact_data where keyword = "موقع الخلافة الإسلامية" and user_id = 1
+[2021-04-01 18:10:02.753619]A process is already running shutting OFF
+ Keyword: غرفة منبر الأنصار الإسلامية, user_id : 1, key_id :643
+delete from contact_data where keyword = "غرفة منبر الأنصار الإسلامية" and user_id = 1
+[2021-04-01 18:15:01.568350]A process is already running shutting OFF
+[2021-04-01 18:20:02.903505]A process is already running shutting OFF
+ Keyword: شبكة الجهاد العالمي, user_id : 1, key_id :644
+delete from contact_data where keyword = "شبكة الجهاد العالمي" and user_id = 1
+[2021-04-01 18:25:02.028269]A process is already running shutting OFF
+[2021-04-01 18:30:01.668344]A process is already running shutting OFF
+[2021-04-01 18:35:02.540723]A process is already running shutting OFF
+ Keyword: أخبار الدولة الإسلامية, user_id : 1, key_id :645
+[2021-04-01 18:40:03.882013]A process is already running shutting OFF
+ Keyword: منتديات النصرة الجهادية, user_id : 1, key_id :646
+[2021-04-01 18:45:01.799916]A process is already running shutting OFF
+ Keyword: منتديات البراق, user_id : 1, key_id :647
+[2021-04-01 18:50:02.117778]A process is already running shutting OFF
+[2021-04-01 18:55:02.255483]A process is already running shutting OFF
+ Keyword: شبكة حنين, user_id : 1, key_id :648
+[2021-04-01 19:00:02.269870]A process is already running shutting OFF
+[2021-04-01 19:05:03.613043]A process is already running shutting OFF
+ Keyword: شبكة الزرقاوي الجهادية, user_id : 1, key_id :649
+[2021-04-01 19:10:02.570536]A process is already running shutting OFF
+ Keyword: وكالة الأنباء الإسلامية حق, user_id : 1, key_id :650
+[2021-04-01 19:15:02.452476]A process is already running shutting OFF
+ Keyword: مؤسسة الفرقان الإعلامية, user_id : 1, key_id :651
+ Keyword: مؤسسة الأعتصام, user_id : 1, key_id :652
+[2021-04-01 19:20:02.086446]A process is already running shutting OFF
+ Keyword: مركز الحياة, user_id : 1, key_id :653
+ Keyword: مركز الفجر للإعلام, user_id : 1, key_id :654
+ Keyword: الغرباء للإعلام, user_id : 1, key_id :655
+ Keyword: ولاية بغداد, user_id : 1, key_id :656
+ Keyword: ولاية الأنبار, user_id : 1, key_id :657
+ Keyword: ولاية حلب, user_id : 1, key_id :658
+[2021-04-01 19:25:01.647248]A process is already running shutting OFF
+ Keyword: ولاية صلاح الدين, user_id : 1, key_id :659
+ Keyword: ولاية الرقة, user_id : 1, key_id :660
+ Keyword: ولاية ديالى, user_id : 1, key_id :661
+ Keyword: ولاية كركوك, user_id : 1, key_id :662
+ Keyword: ولاية الجنوب, user_id : 1, key_id :663
+ Keyword: ولاية نينوى, user_id : 1, key_id :664
+ Keyword: ولاية الجنوب، ولاية الخير, user_id : 1, key_id :665
+[2021-04-01 19:30:02.563921]A process is already running shutting OFF
+ Keyword: ولاية الفرات, user_id : 1, key_id :666
+ Keyword: ولاية الفلوجة, user_id : 1, key_id :667
+ Keyword: أبو مسلم التركماني, user_id : 1, key_id :668
+ Keyword: ذباح الجزراوي, user_id : 1, key_id :669
+ Keyword: ولاية نجد, user_id : 1, key_id :670
+ Keyword: ولاية البركة, user_id : 1, key_id :671
+ Keyword: منهاج النبوة, user_id : 1, key_id :672
+[2021-04-01 19:35:03.028112]A process is already running shutting OFF
+ Keyword: إمارة العراق الإسلامية, user_id : 1, key_id :673
+ Keyword: جيش أبابيل, user_id : 1, key_id :674
+ Keyword: جيش المنصورة, user_id : 1, key_id :675
+ Keyword: جيش أنصار السنة, user_id : 1, key_id :676
+[2021-04-01 19:40:04.856177]A process is already running shutting OFF
+ Keyword: جيش عمر, user_id : 1, key_id :677
+ Keyword: سرايا الجهاد الإسلامي, user_id : 1, key_id :678
+ Keyword: سرايا الغرباء, user_id : 1, key_id :679
+ Keyword: سرايا الغضب الإسلامي, user_id : 1, key_id :680
+ Keyword: سربا أنصار المجاهدين, user_id : 1, key_id :681
+[2021-04-01 19:45:02.633996]A process is already running shutting OFF
+ Keyword: سرايا أنصار التوحيد, user_id : 1, key_id :682
+[2021-04-01 19:50:02.457986]A process is already running shutting OFF
+ Keyword: سرية ياسين البحر, user_id : 1, key_id :683
+ Keyword: كتائب الأهوال, user_id : 1, key_id :684
+ Keyword: كتائب الجماعة السلفية المجاهدة, user_id : 1, key_id :685
+[2021-04-01 19:55:02.373774]A process is already running shutting OFF
+ Keyword: كتائب سيف الله المسلول, user_id : 1, key_id :686
+ Keyword: كتائب الرايات السود, user_id : 1, key_id :687
+ Keyword: مجلس شورى المجاهدين, user_id : 1, key_id :688
+[2021-04-01 20:00:02.277792]A process is already running shutting OFF
+ Keyword: عملية عمر حديد, user_id : 1, key_id :689
+ Keyword: أبو إدريس البلجيكي, user_id : 1, key_id :690
+ Keyword: كتيبة عمرو العبسي, user_id : 1, key_id :691
+[2021-04-01 20:05:02.486832]A process is already running shutting OFF
+[2021-04-01 20:10:03.571580]A process is already running shutting OFF
+[2021-04-01 20:15:05.148179]A process is already running shutting OFF
+[2021-04-01 20:20:04.216255]A process is already running shutting OFF
+ Keyword: Islamic State, user_id : 1, key_id :692
+ Keyword: Dabiq, user_id : 1, key_id :693
+[2021-04-01 20:25:02.000851]A process is already running shutting OFF
+ Keyword: Rumiyah, user_id : 1, key_id :694
+ Keyword: Abd al-Aziz al-Muqrin, user_id : 1, key_id :695
+['ERROR SCRAPING ONION NO RESULTS'] list index out of range
+ Keyword: Darul-Islam, user_id : 1, key_id :696
+['ERROR SCRAPING ONION NO RESULTS'] list index out of range
+ Keyword: Mujahidin, user_id : 1, key_id :697
+Crawler was running on no keywords shutting down
+ Keyword: Jihad, user_id : 1, key_id :698
+ Keyword: Caliphate, user_id : 1, key_id :699
+ Keyword: Manhaj, user_id : 1, key_id :700
+ Keyword: Islamic State News, user_id : 1, key_id :701
+ Keyword: Islamic State Report, user_id : 1, key_id :702
+ Keyword: Al-Himma Library, user_id : 1, key_id :703
+['ERROR SCRAPING ONION'] object of type 'NoneType' has no len()
+ Keyword: Soviet-Afghan War, user_id : 1, key_id :704
+['ERROR SCRAPING ONION'] object of type 'NoneType' has no len()
+ Keyword: mujahideen war, user_id : 1, key_id :705
+ Keyword: mujahideen, user_id : 1, key_id :706
+ Keyword: Nida’ul Islam, user_id : 1, key_id :707
+ Keyword: Shaikh Osama Bin Laden, user_id : 1, key_id :708
+ Keyword: Al-Qaeda in the Arabian Peninsula, user_id : 1, key_id :709
+['ERROR SCRAPING ONION'] object of type 'NoneType' has no len()
+ Keyword: Inspire magazine, user_id : 1, key_id :710
+ Keyword: Jihad Recollections, user_id : 1, key_id :711
+ Keyword: Anwar Al-Awlak, user_id : 1, key_id :712
+['ERROR SCRAPING ONION'] object of type 'NoneType' has no len()
+ Keyword: Shaam’s Al-Risalah, user_id : 1, key_id :713
+ Keyword: Azan, user_id : 1, key_id :714
+ Keyword: As-Sahab media, user_id : 1, key_id :715
+['ERROR SCRAPING ONION NO RESULTS'] list index out of range
+ Keyword: Nusayriyyah, user_id : 1, key_id :716
+ Keyword: ABU AASIM AL-LIBI, user_id : 1, key_id :717
+['ERROR SCRAPING ONION NO RESULTS'] list index out of range
+ Keyword: AL-HIRAKI VILLAGE, user_id : 1, key_id :718
+['ERROR SCRAPING ONION NO RESULTS'] list index out of range
+ Keyword: Ar-Raqqah, user_id : 1, key_id :719
+['ERROR SCRAPING ONION'] object of type 'NoneType' has no len()
+ Keyword: Shaikh AbulHawraa’ Al-Jazaa’iri, user_id : 1, key_id :720
+['ERROR SCRAPING ONION'] object of type 'NoneType' has no len()
+ Keyword: Tawaghit, user_id : 1, key_id :721
+ Keyword: Asadullah Al-Bilawi, user_id : 1, key_id :722
+['ERROR SCRAPING ONION'] object of type 'NoneType' has no len()
+ Keyword: the Islamic State of Iraq and Sham, user_id : 1, key_id :723
+ Keyword: Al Hayat Media Center, user_id : 1, key_id :724
+ Keyword: jama’ah, user_id : 1, key_id :725
+ Keyword: Malahim, user_id : 1, key_id :726
+ Keyword: the land of Malahim, user_id : 1, key_id :727
+ Keyword: muhajirin, user_id : 1, key_id :728
+ Keyword: Bayats, user_id : 1, key_id :729
+ Keyword: Murtadd, user_id : 1, key_id :730
+ Keyword: Khilafah, user_id : 1, key_id :731
+ Keyword: Wilayat, user_id : 1, key_id :732
+ Keyword: Wilayat Al-Anbar, user_id : 1, key_id :733
+['ERROR SCRAPING ONION'] object of type 'NoneType' has no len()
+ Keyword: Al-Qa’dah of Waziristan, user_id : 1, key_id :734
+['ERROR SCRAPING ONION'] object of type 'NoneType' has no len()
+ Keyword: wilayat in Libya, user_id : 1, key_id :735
+ Keyword: Al-Qaeda in Yemen and South Asia, user_id : 1, key_id :736
+['ERROR SCRAPING ONION'] object of type 'NoneType' has no len()
+ Keyword: Umm Basir Al-Muhajirah, user_id : 1, key_id :737
+['ERROR SCRAPING ONION'] object of type 'NoneType' has no len()
+ Keyword: The Bay’ah, user_id : 1, key_id :738
+ Keyword: The flags of Jahiliyyah, user_id : 1, key_id :739
+ Keyword: Jahiliyyah, user_id : 1, key_id :740
+ Keyword: Kuffar, user_id : 1, key_id :741
+ Keyword: battle of al-Ahzab, user_id : 1, key_id :742
+['ERROR SCRAPING ONION'] object of type 'NoneType' has no len()
+ Keyword: A jihad without fighting, user_id : 1, key_id :743
+ Keyword: The death of Mullah Omar, user_id : 1, key_id :744
+ Keyword: Shaikh Mullah Omar the global ummah, user_id : 1, key_id :745
+ Keyword: Kafir ations, user_id : 1, key_id :746
+ Keyword: The best shuhada, user_id : 1, key_id :747
+ Keyword: Shuhada, user_id : 1, key_id :748
+ Keyword: the Amir of the Khilafah’s, user_id : 1, key_id :749
+['ERROR SCRAPING ONION'] object of type 'NoneType' has no len()
+ Keyword: Abu Hamzah al-Muhajir, user_id : 1, key_id :750
+['ERROR SCRAPING ONION NO RESULTS'] list index out of range
+ Keyword: Mushrikin, user_id : 1, key_id :751
+ Keyword: Amirul-Muminin, user_id : 1, key_id :752
+['ERROR SCRAPING ONION'] object of type 'NoneType' has no len()
+ Keyword: Shahada of the Mujahid Shaykh, user_id : 1, key_id :753
+ Keyword: Wala and Bara, user_id : 1, key_id :754
+ Keyword: Amir of Hims Wilayah, user_id : 1, key_id :755
+ Keyword: ghanimah, user_id : 1, key_id :756
+ Keyword: fay, user_id : 1, key_id :757
+ Keyword: and ihtitab, user_id : 1, key_id :758
+ Keyword: Tanzim Qa’idat Al-Jihad, user_id : 1, key_id :759
+['ERROR SCRAPING ONION'] object of type 'NoneType' has no len()
+ Keyword: The Muwahhidun, user_id : 1, key_id :760
+ Keyword: Shaykh Scholar-Mujahid, user_id : 1, key_id :761
+['ERROR SCRAPING ONION'] object of type 'NoneType' has no len()
+ Keyword: Abdallah Al-Muhajir’, user_id : 1, key_id :762
+['ERROR SCRAPING ONION'] object of type 'NoneType' has no len()
+ Keyword: dar al-Kuf, user_id : 1, key_id :763
+['ERROR SCRAPING ONION'] object of type 'NoneType' has no len()
+ Keyword: lone jihad, user_id : 1, key_id :764
+ Keyword: lone mujahid, user_id : 1, key_id :765
+ Keyword: Nikayah, user_id : 1, key_id :766
+ Keyword: Tawahhush, user_id : 1, key_id :767
+ Keyword: Tamkin, user_id : 1, key_id :768
+ Keyword: Fitnah, user_id : 1, key_id :769
+ Keyword: al-salaf al-salih, user_id : 1, key_id :770
+['ERROR SCRAPING ONION'] object of type 'NoneType' has no len()
+ Keyword: bida, user_id : 1, key_id :771
+ Keyword: Shahada, user_id : 1, key_id :772
+ Keyword: Jizya, user_id : 1, key_id :773
+ Keyword: jihad al-daf, user_id : 1, key_id :774
+['ERROR SCRAPING ONION NO RESULTS'] list index out of range
+ Keyword: Shaikh Ayman al-Zawahiri, user_id : 1, key_id :775
+['ERROR SCRAPING ONION'] object of type 'NoneType' has no len()
+ Keyword: ISIS Syria, user_id : 1, key_id :776
+delete from contact_data where keyword = "ISIS Syria" and user_id = 1
+ Keyword: USA election, user_id : 1, key_id :777
+delete from contact_data where keyword = "USA election" and user_id = 1
+ Keyword: william_hamdan, user_id : 1, key_id :778
+ Keyword: hura__l, user_id : 1, key_id :779
+ Keyword: hzam_nasf, user_id : 1, key_id :780
+ Keyword: medo_2911, user_id : 1, key_id :781
+ Keyword: Ghadahassanien, user_id : 1, key_id :782
+ Keyword: esam1alkordi, user_id : 1, key_id :783
+ Keyword: islam_mansour73, user_id : 1, key_id :784
+ Keyword: alkndy_isis, user_id : 1, key_id :785
+['ERROR SCRAPING ONION'] object of type 'NoneType' has no len()
+ Keyword: lion_isis, user_id : 1, key_id :786
+ Keyword: Serat2015, user_id : 1, key_id :787
+ Keyword: bofayez2011, user_id : 1, key_id :788
+ Keyword: Wally_M, user_id : 1, key_id :789
+ Keyword: Fooj_58, user_id : 1, key_id :790
+ Keyword: Jalaaad_alshi3a, user_id : 1, key_id :791
+ Keyword: kuwaity_q8, user_id : 1, key_id :792
+ Keyword: _mediajihad. almohamadi_ISIS, user_id : 1, key_id :793
+ Keyword: islamicState007, user_id : 1, key_id :794
+ Keyword: ILelo07, user_id : 1, key_id :795
+ Keyword: Khattab_hmdani, user_id : 1, key_id :796
+ Keyword: Ajnad29, user_id : 1, key_id :797
+ Keyword: mus1mTV, user_id : 1, key_id :798
+ Keyword: IAsawirtiMediaI, user_id : 1, key_id :799
+ Keyword: dawlh1435h, user_id : 1, key_id :800
+ Keyword: JehadNews, user_id : 1, key_id :801
+ Keyword: hawan_islam, user_id : 1, key_id :802
+ Keyword: mojhedah9, user_id : 1, key_id :803
+ Keyword: alAnsari0jehad, user_id : 1, key_id :804
+ Keyword: brkan_alkazerah, user_id : 1, key_id :805
+ Keyword: monaser_ngd, user_id : 1, key_id :806
+ Keyword: shamdarislam, user_id : 1, key_id :807
+ Keyword: Taliban_soldier, user_id : 1, key_id :808
+ Keyword: om_mujahid12, user_id : 1, key_id :809
+ Keyword: MohajerAseer, user_id : 1, key_id :810
+ Keyword: asawirtiMedia0l, user_id : 1, key_id :811
+ Keyword: Qaswrah1, user_id : 1, key_id :812
+ Keyword: m7arb_tmim, user_id : 1, key_id :813
+ Keyword: Muhajer2013, user_id : 1, key_id :814
+ Keyword: bent_AlDawla, user_id : 1, key_id :815
+ Keyword: Sahwat_News, user_id : 1, key_id :816
+ Keyword: DolatEl_Islam, user_id : 1, key_id :817
+ Keyword: JoondiElkhilafa, user_id : 1, key_id :818
+ Keyword: shomokh1404, user_id : 1, key_id :819
+ Keyword: MinhajNubuwa, user_id : 1, key_id :820
+Crawler was running on no keywords shutting down
+ Keyword: ahmed, user_id : 7, key_id :821
+ Keyword: سالم، خلف، أحمد, user_id : 7, key_id :822
+ Keyword: قيس، خالد،, user_id : 7, key_id :823
+ Keyword: الالال،  تلتتلت، تلالال،, user_id : 7, key_id :824
+ Keyword: خالد، عايض, user_id : 7, key_id :825
+Crawler was running on no keywords shutting down
+ Keyword: سالم ، محمد, user_id : 7, key_id :826
+ Keyword: ابتزاز، سرقة بطاقة, user_id : 7, key_id :827
+ Keyword: أحمد، سعود, user_id : 7, key_id :828
+Crawler was running on no keywords shutting down
+ Keyword: ضيف الله، خلود, user_id : 7, key_id :829
+ Keyword: أطفال، تحرش, user_id : 7, key_id :830
+ Keyword: saudK saifK fiasal, user_id : 8, key_id :831
+ Keyword: majid, user_id : 8, key_id :832
+[2021-04-14 13:40:04.299674]A process is already running shutting OFF
+[2021-04-14 13:45:02.480881]A process is already running shutting OFF
+[2021-04-14 13:50:02.923834]A process is already running shutting OFF
+[2021-04-14 13:55:02.057384]A process is already running shutting OFF
+ Keyword: faud, user_id : 8, key_id :833
+ Keyword: yusif, user_id : 8, key_id :834
+[2021-04-14 14:00:04.413235]A process is already running shutting OFF
+[2021-04-14 14:05:02.452070]A process is already running shutting OFF
+[2021-04-14 14:10:02.592209]A process is already running shutting OFF
+[2021-04-14 14:15:02.649044]A process is already running shutting OFF
+ Keyword: derr, user_id : 8, key_id :835
+[2021-04-14 14:20:02.777582]A process is already running shutting OFF
+[2021-04-14 14:25:02.857129]A process is already running shutting OFF
+[2021-04-14 14:30:03.478730]A process is already running shutting OFF
+[2021-04-14 14:35:02.569075]A process is already running shutting OFF
+[2021-04-14 14:40:05.321118]A process is already running shutting OFF
+ Keyword: logo, user_id : 8, key_id :836
+[2021-04-14 14:45:02.648545]A process is already running shutting OFF
+[2021-04-14 14:50:03.311250]A process is already running shutting OFF
+[2021-04-14 14:55:02.793227]A process is already running shutting OFF
+[2021-04-14 15:00:03.886967]A process is already running shutting OFF
+[2021-04-14 15:05:02.656537]A process is already running shutting OFF
+ Keyword: kit, user_id : 8, key_id :837
+Crawler was running on no keywords shutting down
+ Keyword: fajr, user_id : 8, key_id :838
+Crawler was running on no keywords shutting down
+[Debugger]:  Data has been Fetched! Total: 0
+Crawler was running on no keywords shutting down
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+[Debugger]:  Data has been Fetched! Total: 0
+Crawler was running on no keywords shutting down
+[2021-04-17 13:35:06.070540]A process is already running shutting OFF
+[2021-04-17 13:40:04.866556]A process is already running shutting OFF
+ Keyword: harm, user_id : 7, key_id :841
+ Keyword: saubu, user_id : 7, key_id :842
+ Keyword: لولو، هام، عادي, user_id : 7, key_id :844
+ Keyword: قنقن, user_id : 7, key_id :845
+ Keyword: فات, user_id : 7, key_id :846
+ Keyword: هاشم, user_id : 7, key_id :847
+Data Found: 1 الجيش الحر 4
+delete from contact_data where keyword = "الجيش الحر" and user_id = 4
+Data Found: 2 تساؤلات وشبهات 7
+delete from contact_data where keyword = "تساؤلات وشبهات" and user_id = 7
+Data Found: 3 عملاء أمريكا 7
+delete from contact_data where keyword = "عملاء أمريكا" and user_id = 7
+Data Found: 4 الغزوات المباركة 7
+delete from contact_data where keyword = "الغزوات المباركة" and user_id = 7
+Data Found: 5 صوت الجهاد 7
+delete from contact_data where keyword = "صوت الجهاد" and user_id = 7
+Data Found: 6 صدى الجهاد 7
+delete from contact_data where keyword = "صدى الجهاد" and user_id = 7
+Data Found: 7 التحاكم إلى الطواغيت 7
+delete from contact_data where keyword = "التحاكم إلى الطواغيت" and user_id = 7
+Data Found: 8 موالاة الكفار 7
+delete from contact_data where keyword = "موالاة الكفار" and user_id = 7
+Data Found: 9 خائن الحرمين 7
+delete from contact_data where keyword = "خائن الحرمين" and user_id = 7
+Data Found: 10 آل سلول 7
+delete from contact_data where keyword = "آل سلول" and user_id = 7
+Data Found: 11 الشيخ أبو محمد المقدسي 7
+delete from contact_data where keyword = "الشيخ أبو محمد المقدسي" and user_id = 7
+Data Found: 12 الشيخ أسامة بن لادن 7
+delete from contact_data where keyword = "الشيخ أسامة بن لادن" and user_id = 7
+Data Found: 13 الشيخ أيمن الظواهري 7
+delete from contact_data where keyword = "الشيخ أيمن الظواهري" and user_id = 7
+Data Found: 14 الخليفة أبو بكر البغدادي 7
+delete from contact_data where keyword = "الخليفة أبو بكر البغدادي" and user_id = 7
+Data Found: 15 الشيخ أبو مصعب الزرقاوي 7
+delete from contact_data where keyword = "الشيخ أبو مصعب الزرقاوي" and user_id = 7
+Data Found: 16 السحاب الإعلامية 7
+delete from contact_data where keyword = "السحاب الإعلامية" and user_id = 7
+Data Found: 17 الجبهة الاعلامية الاسلامية العالمية 7
+delete from contact_data where keyword = "الجبهة الاعلامية الاسلامية العالمية" and user_id = 7
+Data Found: 18 القائد عبدالعزيز المقرن 7
+delete from contact_data where keyword = "القائد عبدالعزيز المقرن" and user_id = 7
+Data Found: 19 العدو القريب 7
+delete from contact_data where keyword = "العدو القريب" and user_id = 7
+Data Found: 20 العدو البعيد 7
+delete from contact_data where keyword = "العدو البعيد" and user_id = 7
+Data Found: 21 صليل الصوارم 7
+delete from contact_data where keyword = "صليل الصوارم" and user_id = 7
+Data Found: 22 دولة الخلافة الإسلامية 7
+delete from contact_data where keyword = "دولة الخلافة الإسلامية" and user_id = 7
+Data Found: 23 تنظيم القاعدة في جزيرة العرب 7
+delete from contact_data where keyword = "تنظيم القاعدة في جزيرة العرب" and user_id = 7
+Data Found: 24 تنظيم القاعدة في بلاد الحرمين 7
+delete from contact_data where keyword = "تنظيم القاعدة في بلاد الحرمين" and user_id = 7
+Data Found: 25 تنظيم القاعدة في 7
+delete from contact_data where keyword = "تنظيم القاعدة في" and user_id = 7
+Data Found: 26 تنظيم القاعدة في بلاد الرافدين 7
+delete from contact_data where keyword = "تنظيم القاعدة في بلاد الرافدين" and user_id = 7
+Data Found: 27 حركة شباب المجاهدين 7
+delete from contact_data where keyword = "حركة شباب المجاهدين" and user_id = 7
+Data Found: 28 جماعة التوحيد والجهاد 7
+delete from contact_data where keyword = "جماعة التوحيد والجهاد" and user_id = 7
+Data Found: 29 جبهة النصرة، الشيخ أبو محمد الجولاني 7
+delete from contact_data where keyword = "جبهة النصرة، الشيخ أبو محمد الجولاني" and user_id = 7
+Data Found: 30 أسد الأمة 7
+delete from contact_data where keyword = "أسد الأمة" and user_id = 7
+Data Found: 31 مقاطعة العدو 7
+delete from contact_data where keyword = "مقاطعة العدو" and user_id = 7
+Data Found: 32 ترك الجهاد 7
+delete from contact_data where keyword = "ترك الجهاد" and user_id = 7
+Data Found: 33 دار الإسلام 7
+delete from contact_data where keyword = "دار الإسلام" and user_id = 7
+Data Found: 34 دار الكفر 7
+delete from contact_data where keyword = "دار الكفر" and user_id = 7
+Data Found: 35 عملية عدن 7
+delete from contact_data where keyword = "عملية عدن" and user_id = 7
+Data Found: 36 عملية الخبر 7
+delete from contact_data where keyword = "عملية الخبر" and user_id = 7
+Data Found: 37 غزوة الحادي عشر من سبتمبر 7
+delete from contact_data where keyword = "غزوة الحادي عشر من سبتمبر" and user_id = 7
+Data Found: 38 غزوة منهاتن 7
+delete from contact_data where keyword = "غزوة منهاتن" and user_id = 7
+Data Found: 39 ترك السلاح 7
+delete from contact_data where keyword = "ترك السلاح" and user_id = 7
+Data Found: 40 مؤسسة أعماق 7
+delete from contact_data where keyword = "مؤسسة أعماق" and user_id = 7
+Data Found: 41 مؤسسة أجناد 7
+delete from contact_data where keyword = "مؤسسة أجناد" and user_id = 7
+Data Found: 42 مؤسسة  السحاب 7
+delete from contact_data where keyword = "مؤسسة  السحاب" and user_id = 7
+Data Found: 43 أمهات المجاهدين 7
+delete from contact_data where keyword = "أمهات المجاهدين" and user_id = 7
+Data Found: 44 الشيخ يوسف العييري 7
+delete from contact_data where keyword = "الشيخ يوسف العييري" and user_id = 7
+Data Found: 45 الحرب الصليبية الجديدة 7
+delete from contact_data where keyword = "الحرب الصليبية الجديدة" and user_id = 7
+Data Found: 46 الذب عن المجاهدين 7
+delete from contact_data where keyword = "الذب عن المجاهدين" and user_id = 7
+Data Found: 47 عملية مسرح موسكو’ الحرب الصليبية الجديدة 7
+delete from contact_data where keyword = "عملية مسرح موسكو’ الحرب الصليبية الجديدة" and user_id = 7
+Data Found: 48 علماء السلطان 7
+delete from contact_data where keyword = "علماء السلطان" and user_id = 7
+Data Found: 49 الطواغيت 7
+delete from contact_data where keyword = "الطواغيت" and user_id = 7
+Data Found: 50 البراءة من المشركين 7
+delete from contact_data where keyword = "البراءة من المشركين" and user_id = 7
+Data Found: 51 قيام الحجة 7
+delete from contact_data where keyword = "قيام الحجة" and user_id = 7
+Data Found: 52 مشروعية الجهاد 7
+delete from contact_data where keyword = "مشروعية الجهاد" and user_id = 7
+Data Found: 53 فرسان تحت رأية النبي 7
+delete from contact_data where keyword = "فرسان تحت رأية النبي" and user_id = 7
+Data Found: 54 شقائق المجاهدين 7
+delete from contact_data where keyword = "شقائق المجاهدين" and user_id = 7
+Data Found: 55 النفير للجهاد 7
+delete from contact_data where keyword = "النفير للجهاد" and user_id = 7
+Data Found: 56 التحالف الصليبي 7
+delete from contact_data where keyword = "التحالف الصليبي" and user_id = 7
+Data Found: 57 باقية وتتمدد 7
+delete from contact_data where keyword = "باقية وتتمدد" and user_id = 7
+Data Found: 58 تنظيم الدولة الإسلامية في العراق والشام 7
+delete from contact_data where keyword = "تنظيم الدولة الإسلامية في العراق والشام" and user_id = 7
+Data Found: 59 تنظيم الدولة الإسلامية في الشام 7
+delete from contact_data where keyword = "تنظيم الدولة الإسلامية في الشام" and user_id = 7
+Data Found: 60 تنظيم الدولة الإسلامية في العراق 7
+delete from contact_data where keyword = "تنظيم الدولة الإسلامية في العراق" and user_id = 7
+Data Found: 61 الانغماسيون 7
+delete from contact_data where keyword = "الانغماسيون" and user_id = 7
+Data Found: 62 أنصار الدولة الإسلامية 7
+delete from contact_data where keyword = "أنصار الدولة الإسلامية" and user_id = 7
+Data Found: 63 أسود الدولة الإسلامية 7
+delete from contact_data where keyword = "أسود الدولة الإسلامية" and user_id = 7
+Data Found: 64 جنود الخلافة 7
+delete from contact_data where keyword = "جنود الخلافة" and user_id = 7
+Data Found: 65 موقع الخلافة الإسلامية 7
+delete from contact_data where keyword = "موقع الخلافة الإسلامية" and user_id = 7
+Data Found: 66 غرفة منبر الأنصار الإسلامية 7
+delete from contact_data where keyword = "غرفة منبر الأنصار الإسلامية" and user_id = 7
+Data Found: 67 شبكة الجهاد العالمي 7
+delete from contact_data where keyword = "شبكة الجهاد العالمي" and user_id = 7
+Data Found: 68 أخبار الدولة الإسلامية 7
+delete from contact_data where keyword = "أخبار الدولة الإسلامية" and user_id = 7
+Data Found: 69 منتديات النصرة الجهادية 7
+delete from contact_data where keyword = "منتديات النصرة الجهادية" and user_id = 7
+Data Found: 70 منتديات البراق 7
+delete from contact_data where keyword = "منتديات البراق" and user_id = 7
+Data Found: 71 شبكة حنين 7
+delete from contact_data where keyword = "شبكة حنين" and user_id = 7
+Data Found: 72 شبكة الزرقاوي الجهادية 7
+delete from contact_data where keyword = "شبكة الزرقاوي الجهادية" and user_id = 7
+Data Found: 73 وكالة الأنباء الإسلامية حق 7
+delete from contact_data where keyword = "وكالة الأنباء الإسلامية حق" and user_id = 7
+Data Found: 74 مؤسسة الفرقان الإعلامية 7
+delete from contact_data where keyword = "مؤسسة الفرقان الإعلامية" and user_id = 7
+Data Found: 75 مؤسسة الأعتصام 7
+delete from contact_data where keyword = "مؤسسة الأعتصام" and user_id = 7
+Data Found: 76 مركز الحياة 7
+delete from contact_data where keyword = "مركز الحياة" and user_id = 7
+Data Found: 77 مركز الفجر للإعلام 7
+delete from contact_data where keyword = "مركز الفجر للإعلام" and user_id = 7
+Data Found: 78 الغرباء للإعلام 7
+delete from contact_data where keyword = "الغرباء للإعلام" and user_id = 7
+Data Found: 79 ولاية بغداد 7
+delete from contact_data where keyword = "ولاية بغداد" and user_id = 7
+Data Found: 80 ولاية الأنبار 7
+delete from contact_data where keyword = "ولاية الأنبار" and user_id = 7
+Data Found: 82 ولاية حلب 7
+delete from contact_data where keyword = "ولاية حلب" and user_id = 7
+Data Found: 83 ولاية صلاح الدين 7
+delete from contact_data where keyword = "ولاية صلاح الدين" and user_id = 7
+Data Found: 84 ولاية الرقة 7
+delete from contact_data where keyword = "ولاية الرقة" and user_id = 7
+Data Found: 85 ولاية ديالى 7
+delete from contact_data where keyword = "ولاية ديالى" and user_id = 7
+Data Found: 86 ولاية كركوك 7
+delete from contact_data where keyword = "ولاية كركوك" and user_id = 7
+Data Found: 87 ولاية الجنوب 7
+delete from contact_data where keyword = "ولاية الجنوب" and user_id = 7
+Data Found: 88 ولاية نينوى 7
+delete from contact_data where keyword = "ولاية نينوى" and user_id = 7
+Data Found: 89 ولاية الجنوب، ولاية الخير 7
+delete from contact_data where keyword = "ولاية الجنوب، ولاية الخير" and user_id = 7
+Data Found: 90 ولاية الفرات 7
+delete from contact_data where keyword = "ولاية الفرات" and user_id = 7
+Data Found: 91 ولاية الفلوجة 7
+delete from contact_data where keyword = "ولاية الفلوجة" and user_id = 7
+Data Found: 92 أبو مسلم التركماني 7
+delete from contact_data where keyword = "أبو مسلم التركماني" and user_id = 7
+Data Found: 93 ذباح الجزراوي 7
+delete from contact_data where keyword = "ذباح الجزراوي" and user_id = 7
+Data Found: 94 ولاية نجد 7
+delete from contact_data where keyword = "ولاية نجد" and user_id = 7
+Data Found: 95 ولاية البركة 7
+delete from contact_data where keyword = "ولاية البركة" and user_id = 7
+Data Found: 96 منهاج النبوة 7
+delete from contact_data where keyword = "منهاج النبوة" and user_id = 7
+Data Found: 97 إمارة العراق الإسلامية 7
+delete from contact_data where keyword = "إمارة العراق الإسلامية" and user_id = 7
+Data Found: 98 جيش أبابيل 7
+delete from contact_data where keyword = "جيش أبابيل" and user_id = 7
+Data Found: 100 جيش المنصورة 7
+delete from contact_data where keyword = "جيش المنصورة" and user_id = 7
+Data Found: 101 جيش أنصار السنة 7
+delete from contact_data where keyword = "جيش أنصار السنة" and user_id = 7
+Data Found: 102 جيش عمر 7
+delete from contact_data where keyword = "جيش عمر" and user_id = 7
+Data Found: 103 سرايا الجهاد الإسلامي 7
+delete from contact_data where keyword = "سرايا الجهاد الإسلامي" and user_id = 7
+Data Found: 104 سرايا الغرباء 7
+delete from contact_data where keyword = "سرايا الغرباء" and user_id = 7
+Data Found: 105 سرايا الغضب الإسلامي 7
+delete from contact_data where keyword = "سرايا الغضب الإسلامي" and user_id = 7
+Data Found: 106 سربا أنصار المجاهدين 7
+delete from contact_data where keyword = "سربا أنصار المجاهدين" and user_id = 7
+Data Found: 107 سرايا أنصار التوحيد 7
+delete from contact_data where keyword = "سرايا أنصار التوحيد" and user_id = 7
+Data Found: 108 سرية ياسين البحر 7
+delete from contact_data where keyword = "سرية ياسين البحر" and user_id = 7
+Data Found: 109 كتائب الأهوال 7
+delete from contact_data where keyword = "كتائب الأهوال" and user_id = 7
+Data Found: 110 كتائب الجماعة السلفية المجاهدة 7
+delete from contact_data where keyword = "كتائب الجماعة السلفية المجاهدة" and user_id = 7
+Data Found: 111 كتائب سيف الله المسلول 7
+delete from contact_data where keyword = "كتائب سيف الله المسلول" and user_id = 7
+Data Found: 112 كتائب الرايات السود 7
+delete from contact_data where keyword = "كتائب الرايات السود" and user_id = 7
+Data Found: 113 مجلس شورى المجاهدين 7
+delete from contact_data where keyword = "مجلس شورى المجاهدين" and user_id = 7
+Data Found: 114 عملية عمر حديد 7
+delete from contact_data where keyword = "عملية عمر حديد" and user_id = 7
+Data Found: 115 أبو إدريس البلجيكي 7
+delete from contact_data where keyword = "أبو إدريس البلجيكي" and user_id = 7
+Data Found: 116 كتيبة عمرو العبسي 7
+delete from contact_data where keyword = "كتيبة عمرو العبسي" and user_id = 7
+Data Found: 117 Islamic State 7
+delete from contact_data where keyword = "Islamic State" and user_id = 7
+Data Found: 118 Dabiq 7
+delete from contact_data where keyword = "Dabiq" and user_id = 7
+Data Found: 119 Rumiyah 7
+delete from contact_data where keyword = "Rumiyah" and user_id = 7
+Data Found: 120 Abd al-Aziz al-Muqrin 7
+delete from contact_data where keyword = "Abd al-Aziz al-Muqrin" and user_id = 7
+Data Found: 121 Darul-Islam 7
+delete from contact_data where keyword = "Darul-Islam" and user_id = 7
+Data Found: 122 Mujahidin 7
+delete from contact_data where keyword = "Mujahidin" and user_id = 7
+Data Found: 123 Jihad 7
+delete from contact_data where keyword = "Jihad" and user_id = 7
+Data Found: 124 Caliphate 7
+delete from contact_data where keyword = "Caliphate" and user_id = 7
+Data Found: 125 Manhaj 7
+delete from contact_data where keyword = "Manhaj" and user_id = 7
+Data Found: 126 Islamic State News 7
+delete from contact_data where keyword = "Islamic State News" and user_id = 7
+Data Found: 127 Islamic State Report 7
+delete from contact_data where keyword = "Islamic State Report" and user_id = 7
+Data Found: 128 Al-Himma Library 7
+delete from contact_data where keyword = "Al-Himma Library" and user_id = 7
+Data Found: 129 Soviet-Afghan War 7
+delete from contact_data where keyword = "Soviet-Afghan War" and user_id = 7
+Data Found: 130 mujahideen war 7
+delete from contact_data where keyword = "mujahideen war" and user_id = 7
+Data Found: 131 mujahideen 7
+delete from contact_data where keyword = "mujahideen" and user_id = 7
+Data Found: 132 Nida’ul Islam 7
+delete from contact_data where keyword = "Nida’ul Islam" and user_id = 7
+Data Found: 133 Shaikh Osama Bin Laden 7
+delete from contact_data where keyword = "Shaikh Osama Bin Laden" and user_id = 7
+Data Found: 134 Al-Qaeda in the Arabian Peninsula 7
+delete from contact_data where keyword = "Al-Qaeda in the Arabian Peninsula" and user_id = 7
+Data Found: 135 Inspire magazine 7
+delete from contact_data where keyword = "Inspire magazine" and user_id = 7
+Data Found: 136 Jihad Recollections 7
+delete from contact_data where keyword = "Jihad Recollections" and user_id = 7
+Data Found: 137 Anwar Al-Awlak 7
+delete from contact_data where keyword = "Anwar Al-Awlak" and user_id = 7
+Data Found: 138 Shaam’s Al-Risalah 7
+delete from contact_data where keyword = "Shaam’s Al-Risalah" and user_id = 7
+Data Found: 139 Azan 7
+delete from contact_data where keyword = "Azan" and user_id = 7
+Data Found: 140 As-Sahab media 7
+delete from contact_data where keyword = "As-Sahab media" and user_id = 7
+Data Found: 141 Nusayriyyah 7
+delete from contact_data where keyword = "Nusayriyyah" and user_id = 7
+Data Found: 142 ABU AASIM AL-LIBI 7
+delete from contact_data where keyword = "ABU AASIM AL-LIBI" and user_id = 7
+Data Found: 143 AL-HIRAKI VILLAGE 7
+delete from contact_data where keyword = "AL-HIRAKI VILLAGE" and user_id = 7
+Data Found: 144 Ar-Raqqah 7
+delete from contact_data where keyword = "Ar-Raqqah" and user_id = 7
+Data Found: 145 Shaikh AbulHawraa’ Al-Jazaa’iri 7
+delete from contact_data where keyword = "Shaikh AbulHawraa’ Al-Jazaa’iri" and user_id = 7
+Data Found: 146 Tawaghit 7
+delete from contact_data where keyword = "Tawaghit" and user_id = 7
+Data Found: 147 Asadullah Al-Bilawi 7
+delete from contact_data where keyword = "Asadullah Al-Bilawi" and user_id = 7
+Data Found: 148 the Islamic State of Iraq and Sham 7
+delete from contact_data where keyword = "the Islamic State of Iraq and Sham" and user_id = 7
+Data Found: 149 Al Hayat Media Center 7
+delete from contact_data where keyword = "Al Hayat Media Center" and user_id = 7
+Data Found: 150 jama’ah 7
+delete from contact_data where keyword = "jama’ah" and user_id = 7
+Data Found: 151 Malahim 7
+delete from contact_data where keyword = "Malahim" and user_id = 7
+Data Found: 152 the land of Malahim 7
+delete from contact_data where keyword = "the land of Malahim" and user_id = 7
+Data Found: 153 muhajirin 7
+delete from contact_data where keyword = "muhajirin" and user_id = 7
+Data Found: 154 Bayats 7
+delete from contact_data where keyword = "Bayats" and user_id = 7
+Data Found: 155 Murtadd 7
+delete from contact_data where keyword = "Murtadd" and user_id = 7
+Data Found: 156 Khilafah 7
+delete from contact_data where keyword = "Khilafah" and user_id = 7
+Data Found: 157 Wilayat 7
+delete from contact_data where keyword = "Wilayat" and user_id = 7
+Data Found: 158 Wilayat Al-Anbar 7
+delete from contact_data where keyword = "Wilayat Al-Anbar" and user_id = 7
+Data Found: 159 Al-Qa’dah of Waziristan 7
+delete from contact_data where keyword = "Al-Qa’dah of Waziristan" and user_id = 7
+Data Found: 160 wilayat in Libya 7
+delete from contact_data where keyword = "wilayat in Libya" and user_id = 7
+Data Found: 161 Al-Qaeda in Yemen and South Asia 7
+delete from contact_data where keyword = "Al-Qaeda in Yemen and South Asia" and user_id = 7
+Data Found: 162 Umm Basir Al-Muhajirah 7
+delete from contact_data where keyword = "Umm Basir Al-Muhajirah" and user_id = 7
+Data Found: 163 The Bay’ah 7
+delete from contact_data where keyword = "The Bay’ah" and user_id = 7
+Data Found: 164 The flags of Jahiliyyah 7
+delete from contact_data where keyword = "The flags of Jahiliyyah" and user_id = 7
+Data Found: 165 Jahiliyyah 7
+delete from contact_data where keyword = "Jahiliyyah" and user_id = 7
+Data Found: 166 Kuffar 7
+delete from contact_data where keyword = "Kuffar" and user_id = 7
+Data Found: 167 battle of al-Ahzab 7
+delete from contact_data where keyword = "battle of al-Ahzab" and user_id = 7
+Data Found: 168 A jihad without fighting 7
+delete from contact_data where keyword = "A jihad without fighting" and user_id = 7
+Data Found: 169 The death of Mullah Omar 7
+delete from contact_data where keyword = "The death of Mullah Omar" and user_id = 7
+Data Found: 170 Shaikh Mullah Omar the global ummah 7
+delete from contact_data where keyword = "Shaikh Mullah Omar the global ummah" and user_id = 7
+Data Found: 171 Kafir ations 7
+delete from contact_data where keyword = "Kafir ations" and user_id = 7
+Data Found: 172 The best shuhada 7
+delete from contact_data where keyword = "The best shuhada" and user_id = 7
+Data Found: 173 Shuhada 7
+delete from contact_data where keyword = "Shuhada" and user_id = 7
+Data Found: 174 the Amir of the Khilafah’s 7
+delete from contact_data where keyword = "the Amir of the Khilafah’s" and user_id = 7
+Data Found: 175 Abu Hamzah al-Muhajir 7
+delete from contact_data where keyword = "Abu Hamzah al-Muhajir" and user_id = 7
+Data Found: 176 Mushrikin 7
+delete from contact_data where keyword = "Mushrikin" and user_id = 7
+Data Found: 177 Amirul-Muminin 7
+delete from contact_data where keyword = "Amirul-Muminin" and user_id = 7
+Data Found: 178 Shahada of the Mujahid Shaykh 7
+delete from contact_data where keyword = "Shahada of the Mujahid Shaykh" and user_id = 7
+Data Found: 179 Wala and Bara 7
+delete from contact_data where keyword = "Wala and Bara" and user_id = 7
+Data Found: 180 Amir of Hims Wilayah 7
+delete from contact_data where keyword = "Amir of Hims Wilayah" and user_id = 7
+Data Found: 181 ghanimah 7
+delete from contact_data where keyword = "ghanimah" and user_id = 7
+Data Found: 182 fay 7
+delete from contact_data where keyword = "fay" and user_id = 7
+Data Found: 183 and ihtitab 7
+delete from contact_data where keyword = "and ihtitab" and user_id = 7
+Data Found: 184 Tanzim Qa’idat Al-Jihad 7
+delete from contact_data where keyword = "Tanzim Qa’idat Al-Jihad" and user_id = 7
+Data Found: 185 The Muwahhidun 7
+delete from contact_data where keyword = "The Muwahhidun" and user_id = 7
+Data Found: 186 Shaykh Scholar-Mujahid 7
+delete from contact_data where keyword = "Shaykh Scholar-Mujahid" and user_id = 7
+Data Found: 187 Abdallah Al-Muhajir’ 7
+delete from contact_data where keyword = "Abdallah Al-Muhajir’" and user_id = 7
+Data Found: 188 dar al-Kuf 7
+delete from contact_data where keyword = "dar al-Kuf" and user_id = 7
+Data Found: 189 lone jihad 7
+delete from contact_data where keyword = "lone jihad" and user_id = 7
+Data Found: 190 lone mujahid 7
+delete from contact_data where keyword = "lone mujahid" and user_id = 7
+Data Found: 191 Nikayah 7
+delete from contact_data where keyword = "Nikayah" and user_id = 7
+Data Found: 192 Tawahhush 7
+delete from contact_data where keyword = "Tawahhush" and user_id = 7
+Data Found: 193 Tamkin 7
+delete from contact_data where keyword = "Tamkin" and user_id = 7
+Data Found: 194 Fitnah 7
+delete from contact_data where keyword = "Fitnah" and user_id = 7
+Data Found: 195 al-salaf al-salih 7
+delete from contact_data where keyword = "al-salaf al-salih" and user_id = 7
+Data Found: 196 bida 7
+delete from contact_data where keyword = "bida" and user_id = 7
+Data Found: 197 Shahada 7
+delete from contact_data where keyword = "Shahada" and user_id = 7
+Data Found: 198 Jizya 7
+delete from contact_data where keyword = "Jizya" and user_id = 7
+Data Found: 199 jihad al-daf 7
+delete from contact_data where keyword = "jihad al-daf" and user_id = 7
+Data Found: 200 Shaikh Ayman al-Zawahiri 7
+delete from contact_data where keyword = "Shaikh Ayman al-Zawahiri" and user_id = 7
+Data Found: 281 william_hamdan 7
+delete from contact_data where keyword = "william_hamdan" and user_id = 7
+Data Found: 282 hura__l 7
+delete from contact_data where keyword = "hura__l" and user_id = 7
+Data Found: 283 hzam_nasf 7
+delete from contact_data where keyword = "hzam_nasf" and user_id = 7
+Data Found: 284 medo_2911 7
+delete from contact_data where keyword = "medo_2911" and user_id = 7
+Data Found: 285 Ghadahassanien 7
+delete from contact_data where keyword = "Ghadahassanien" and user_id = 7
+Data Found: 286 esam1alkordi 7
+delete from contact_data where keyword = "esam1alkordi" and user_id = 7
+Data Found: 287 islam_mansour73 7
+delete from contact_data where keyword = "islam_mansour73" and user_id = 7
+Data Found: 288 alkndy_isis 7
+delete from contact_data where keyword = "alkndy_isis" and user_id = 7
+Data Found: 289 lion_isis 7
+delete from contact_data where keyword = "lion_isis" and user_id = 7
+Data Found: 290 Serat2015 7
+delete from contact_data where keyword = "Serat2015" and user_id = 7
+Data Found: 291 bofayez2011 7
+delete from contact_data where keyword = "bofayez2011" and user_id = 7
+Data Found: 292 Wally_M 7
+delete from contact_data where keyword = "Wally_M" and user_id = 7
+Data Found: 293 Fooj_58 7
+delete from contact_data where keyword = "Fooj_58" and user_id = 7
+Data Found: 294 Jalaaad_alshi3a 7
+delete from contact_data where keyword = "Jalaaad_alshi3a" and user_id = 7
+Data Found: 295 kuwaity_q8 7
+delete from contact_data where keyword = "kuwaity_q8" and user_id = 7
+Data Found: 296 _mediajihad. almohamadi_ISIS 7
+delete from contact_data where keyword = "_mediajihad. almohamadi_ISIS" and user_id = 7
+Data Found: 297 islamicState007 7
+delete from contact_data where keyword = "islamicState007" and user_id = 7
+Data Found: 298 ILelo07 7
+delete from contact_data where keyword = "ILelo07" and user_id = 7
+Data Found: 299 Khattab_hmdani 7
+delete from contact_data where keyword = "Khattab_hmdani" and user_id = 7
+Data Found: 300 Ajnad29 7
+delete from contact_data where keyword = "Ajnad29" and user_id = 7
+Data Found: 301 mus1mTV 7
+delete from contact_data where keyword = "mus1mTV" and user_id = 7
+Data Found: 302 IAsawirtiMediaI 7
+delete from contact_data where keyword = "IAsawirtiMediaI" and user_id = 7
+Data Found: 303 dawlh1435h 7
+delete from contact_data where keyword = "dawlh1435h" and user_id = 7
+Data Found: 304 JehadNews 7
+delete from contact_data where keyword = "JehadNews" and user_id = 7
+Data Found: 305 hawan_islam 7
+delete from contact_data where keyword = "hawan_islam" and user_id = 7
+Data Found: 306 mojhedah9 7
+delete from contact_data where keyword = "mojhedah9" and user_id = 7
+Data Found: 307 alAnsari0jehad 7
+delete from contact_data where keyword = "alAnsari0jehad" and user_id = 7
+Data Found: 308 brkan_alkazerah 7
+delete from contact_data where keyword = "brkan_alkazerah" and user_id = 7
+Data Found: 309 monaser_ngd 7
+delete from contact_data where keyword = "monaser_ngd" and user_id = 7
+Data Found: 310 shamdarislam 7
+delete from contact_data where keyword = "shamdarislam" and user_id = 7
+Data Found: 311 Taliban_soldier 7
+delete from contact_data where keyword = "Taliban_soldier" and user_id = 7
+Data Found: 312 om_mujahid12 7
+delete from contact_data where keyword = "om_mujahid12" and user_id = 7
+Data Found: 313 MohajerAseer 7
+delete from contact_data where keyword = "MohajerAseer" and user_id = 7
+Data Found: 314 asawirtiMedia0l 7
+delete from contact_data where keyword = "asawirtiMedia0l" and user_id = 7
+Data Found: 315 Qaswrah1 7
+delete from contact_data where keyword = "Qaswrah1" and user_id = 7
+Data Found: 316 m7arb_tmim 7
+delete from contact_data where keyword = "m7arb_tmim" and user_id = 7
+Data Found: 317 Muhajer2013 7
+delete from contact_data where keyword = "Muhajer2013" and user_id = 7
+Data Found: 318 bent_AlDawla 7
+delete from contact_data where keyword = "bent_AlDawla" and user_id = 7
+Data Found: 319 Sahwat_News 7
+delete from contact_data where keyword = "Sahwat_News" and user_id = 7
+Data Found: 320 DolatEl_Islam 7
+delete from contact_data where keyword = "DolatEl_Islam" and user_id = 7
+Data Found: 321 JoondiElkhilafa 7
+delete from contact_data where keyword = "JoondiElkhilafa" and user_id = 7
+Data Found: 322 shomokh1404 7
+delete from contact_data where keyword = "shomokh1404" and user_id = 7
+Data Found: 323 MinhajNubuwa 7
+delete from contact_data where keyword = "MinhajNubuwa" and user_id = 7
+Data Found: 324  7
+delete from contact_data where keyword = "" and user_id = 7
+Data Found: 575 guns 7
+delete from contact_data where keyword = "guns" and user_id = 7
+Data Found: 576 safe 7
+delete from contact_data where keyword = "safe" and user_id = 7
+Data Found: 577 faris 7
+delete from contact_data where keyword = "faris" and user_id = 7
+Data Found: 821 ahmed 7
+delete from contact_data where keyword = "ahmed" and user_id = 7
+Data Found: 822 سالم، خلف، أحمد 7
+delete from contact_data where keyword = "سالم، خلف، أحمد" and user_id = 7
+Data Found: 823 قيس، خالد، 7
+delete from contact_data where keyword = "قيس، خالد،" and user_id = 7
+Data Found: 824 الالال،  تلتتلت، تلالال، 7
+delete from contact_data where keyword = "الالال،  تلتتلت، تلالال،" and user_id = 7
+Data Found: 825 خالد، عايض 7
+delete from contact_data where keyword = "خالد، عايض" and user_id = 7
+Data Found: 826 سالم ، محمد 7
+delete from contact_data where keyword = "سالم ، محمد" and user_id = 7
+Data Found: 827 ابتزاز، سرقة بطاقة 7
+delete from contact_data where keyword = "ابتزاز، سرقة بطاقة" and user_id = 7
+Data Found: 828 أحمد، سعود 7
+delete from contact_data where keyword = "أحمد، سعود" and user_id = 7
+Data Found: 829 ضيف الله، خلود 7
+delete from contact_data where keyword = "ضيف الله، خلود" and user_id = 7
+Data Found: 830 أطفال، تحرش 7
+delete from contact_data where keyword = "أطفال، تحرش" and user_id = 7
+Data Found: 840 cards 8
+delete from contact_data where keyword = "cards" and user_id = 8
+Data Found: 841 harm 7
+delete from contact_data where keyword = "harm" and user_id = 7
+Data Found: 842 saubu 7
+delete from contact_data where keyword = "saubu" and user_id = 7
+Data Found: 844 لولو، هام، عادي 7
+delete from contact_data where keyword = "لولو، هام، عادي" and user_id = 7
+Data Found: 845 قنقن 7
+delete from contact_data where keyword = "قنقن" and user_id = 7
+Data Found: 846 فات 7
+delete from contact_data where keyword = "فات" and user_id = 7
+Data Found: 847 هاشم 7
+delete from contact_data where keyword = "هاشم" and user_id = 7
+ Keyword: self, user_id : 7, key_id :843
+ Keyword: لولو، هام، عادي, user_id : 7, key_id :844
+delete from contact_data where keyword = "لولو، هام، عادي" and user_id = 7
+ Keyword: قنقن, user_id : 7, key_id :845
+delete from contact_data where keyword = "قنقن" and user_id = 7
+ Keyword: فات, user_id : 7, key_id :846
+delete from contact_data where keyword = "فات" and user_id = 7
+ Keyword: هاشم, user_id : 7, key_id :847
+delete from contact_data where keyword = "هاشم" and user_id = 7
+Data Found: 1 الجيش الحر 4
+delete from contact_data where keyword = "الجيش الحر" and user_id = 4
+Data Found: 2 تساؤلات وشبهات 7
+delete from contact_data where keyword = "تساؤلات وشبهات" and user_id = 7
+Data Found: 3 عملاء أمريكا 7
+delete from contact_data where keyword = "عملاء أمريكا" and user_id = 7
+Data Found: 4 الغزوات المباركة 7
+delete from contact_data where keyword = "الغزوات المباركة" and user_id = 7
+Data Found: 5 صوت الجهاد 7
+delete from contact_data where keyword = "صوت الجهاد" and user_id = 7
+Data Found: 6 صدى الجهاد 7
+delete from contact_data where keyword = "صدى الجهاد" and user_id = 7
+Data Found: 7 التحاكم إلى الطواغيت 7
+delete from contact_data where keyword = "التحاكم إلى الطواغيت" and user_id = 7
+Data Found: 8 موالاة الكفار 7
+delete from contact_data where keyword = "موالاة الكفار" and user_id = 7
+Data Found: 9 خائن الحرمين 7
+delete from contact_data where keyword = "خائن الحرمين" and user_id = 7
+Data Found: 10 آل سلول 7
+delete from contact_data where keyword = "آل سلول" and user_id = 7
+Data Found: 11 الشيخ أبو محمد المقدسي 7
+delete from contact_data where keyword = "الشيخ أبو محمد المقدسي" and user_id = 7
+Data Found: 12 الشيخ أسامة بن لادن 7
+delete from contact_data where keyword = "الشيخ أسامة بن لادن" and user_id = 7
+Data Found: 13 الشيخ أيمن الظواهري 7
+delete from contact_data where keyword = "الشيخ أيمن الظواهري" and user_id = 7
+Data Found: 14 الخليفة أبو بكر البغدادي 7
+delete from contact_data where keyword = "الخليفة أبو بكر البغدادي" and user_id = 7
+Data Found: 15 الشيخ أبو مصعب الزرقاوي 7
+delete from contact_data where keyword = "الشيخ أبو مصعب الزرقاوي" and user_id = 7
+Data Found: 16 السحاب الإعلامية 7
+delete from contact_data where keyword = "السحاب الإعلامية" and user_id = 7
+Data Found: 17 الجبهة الاعلامية الاسلامية العالمية 7
+delete from contact_data where keyword = "الجبهة الاعلامية الاسلامية العالمية" and user_id = 7
+Data Found: 18 القائد عبدالعزيز المقرن 7
+delete from contact_data where keyword = "القائد عبدالعزيز المقرن" and user_id = 7
+Data Found: 19 العدو القريب 7
+delete from contact_data where keyword = "العدو القريب" and user_id = 7
+Data Found: 20 العدو البعيد 7
+delete from contact_data where keyword = "العدو البعيد" and user_id = 7
+Data Found: 21 صليل الصوارم 7
+delete from contact_data where keyword = "صليل الصوارم" and user_id = 7
+Data Found: 22 دولة الخلافة الإسلامية 7
+delete from contact_data where keyword = "دولة الخلافة الإسلامية" and user_id = 7
+Data Found: 23 تنظيم القاعدة في جزيرة العرب 7
+delete from contact_data where keyword = "تنظيم القاعدة في جزيرة العرب" and user_id = 7
+Data Found: 24 تنظيم القاعدة في بلاد الحرمين 7
+delete from contact_data where keyword = "تنظيم القاعدة في بلاد الحرمين" and user_id = 7
+Data Found: 25 تنظيم القاعدة في 7
+delete from contact_data where keyword = "تنظيم القاعدة في" and user_id = 7
+Data Found: 26 تنظيم القاعدة في بلاد الرافدين 7
+delete from contact_data where keyword = "تنظيم القاعدة في بلاد الرافدين" and user_id = 7
+Data Found: 27 حركة شباب المجاهدين 7
+delete from contact_data where keyword = "حركة شباب المجاهدين" and user_id = 7
+Data Found: 28 جماعة التوحيد والجهاد 7
+delete from contact_data where keyword = "جماعة التوحيد والجهاد" and user_id = 7
+Data Found: 29 جبهة النصرة، الشيخ أبو محمد الجولاني 7
+delete from contact_data where keyword = "جبهة النصرة، الشيخ أبو محمد الجولاني" and user_id = 7
+Data Found: 30 أسد الأمة 7
+delete from contact_data where keyword = "أسد الأمة" and user_id = 7
+Data Found: 31 مقاطعة العدو 7
+delete from contact_data where keyword = "مقاطعة العدو" and user_id = 7
+Data Found: 32 ترك الجهاد 7
+delete from contact_data where keyword = "ترك الجهاد" and user_id = 7
+Data Found: 33 دار الإسلام 7
+delete from contact_data where keyword = "دار الإسلام" and user_id = 7
+Data Found: 34 دار الكفر 7
+delete from contact_data where keyword = "دار الكفر" and user_id = 7
+Data Found: 35 عملية عدن 7
+delete from contact_data where keyword = "عملية عدن" and user_id = 7
+Data Found: 36 عملية الخبر 7
+delete from contact_data where keyword = "عملية الخبر" and user_id = 7
+Data Found: 37 غزوة الحادي عشر من سبتمبر 7
+delete from contact_data where keyword = "غزوة الحادي عشر من سبتمبر" and user_id = 7
+Data Found: 38 غزوة منهاتن 7
+delete from contact_data where keyword = "غزوة منهاتن" and user_id = 7
+Data Found: 39 ترك السلاح 7
+delete from contact_data where keyword = "ترك السلاح" and user_id = 7
+Data Found: 40 مؤسسة أعماق 7
+delete from contact_data where keyword = "مؤسسة أعماق" and user_id = 7
+Data Found: 41 مؤسسة أجناد 7
+delete from contact_data where keyword = "مؤسسة أجناد" and user_id = 7
+Data Found: 42 مؤسسة  السحاب 7
+delete from contact_data where keyword = "مؤسسة  السحاب" and user_id = 7
+Data Found: 43 أمهات المجاهدين 7
+delete from contact_data where keyword = "أمهات المجاهدين" and user_id = 7
+Data Found: 44 الشيخ يوسف العييري 7
+delete from contact_data where keyword = "الشيخ يوسف العييري" and user_id = 7
+Data Found: 45 الحرب الصليبية الجديدة 7
+delete from contact_data where keyword = "الحرب الصليبية الجديدة" and user_id = 7
+Data Found: 46 الذب عن المجاهدين 7
+delete from contact_data where keyword = "الذب عن المجاهدين" and user_id = 7
+Data Found: 47 عملية مسرح موسكو’ الحرب الصليبية الجديدة 7
+delete from contact_data where keyword = "عملية مسرح موسكو’ الحرب الصليبية الجديدة" and user_id = 7
+Data Found: 48 علماء السلطان 7
+delete from contact_data where keyword = "علماء السلطان" and user_id = 7
+Data Found: 49 الطواغيت 7
+delete from contact_data where keyword = "الطواغيت" and user_id = 7
+Data Found: 50 البراءة من المشركين 7
+delete from contact_data where keyword = "البراءة من المشركين" and user_id = 7
+Data Found: 51 قيام الحجة 7
+delete from contact_data where keyword = "قيام الحجة" and user_id = 7
+Data Found: 52 مشروعية الجهاد 7
+delete from contact_data where keyword = "مشروعية الجهاد" and user_id = 7
+Data Found: 53 فرسان تحت رأية النبي 7
+delete from contact_data where keyword = "فرسان تحت رأية النبي" and user_id = 7
+Data Found: 54 شقائق المجاهدين 7
+delete from contact_data where keyword = "شقائق المجاهدين" and user_id = 7
+Data Found: 55 النفير للجهاد 7
+delete from contact_data where keyword = "النفير للجهاد" and user_id = 7
+Data Found: 56 التحالف الصليبي 7
+delete from contact_data where keyword = "التحالف الصليبي" and user_id = 7
+Data Found: 57 باقية وتتمدد 7
+delete from contact_data where keyword = "باقية وتتمدد" and user_id = 7
+Data Found: 58 تنظيم الدولة الإسلامية في العراق والشام 7
+delete from contact_data where keyword = "تنظيم الدولة الإسلامية في العراق والشام" and user_id = 7
+Data Found: 59 تنظيم الدولة الإسلامية في الشام 7
+delete from contact_data where keyword = "تنظيم الدولة الإسلامية في الشام" and user_id = 7
+Data Found: 60 تنظيم الدولة الإسلامية في العراق 7
+delete from contact_data where keyword = "تنظيم الدولة الإسلامية في العراق" and user_id = 7
+Data Found: 61 الانغماسيون 7
+delete from contact_data where keyword = "الانغماسيون" and user_id = 7
+Data Found: 62 أنصار الدولة الإسلامية 7
+delete from contact_data where keyword = "أنصار الدولة الإسلامية" and user_id = 7
+Data Found: 63 أسود الدولة الإسلامية 7
+delete from contact_data where keyword = "أسود الدولة الإسلامية" and user_id = 7
+Data Found: 64 جنود الخلافة 7
+delete from contact_data where keyword = "جنود الخلافة" and user_id = 7
+Data Found: 65 موقع الخلافة الإسلامية 7
+delete from contact_data where keyword = "موقع الخلافة الإسلامية" and user_id = 7
+Data Found: 66 غرفة منبر الأنصار الإسلامية 7
+delete from contact_data where keyword = "غرفة منبر الأنصار الإسلامية" and user_id = 7
+Data Found: 67 شبكة الجهاد العالمي 7
+delete from contact_data where keyword = "شبكة الجهاد العالمي" and user_id = 7
+Data Found: 68 أخبار الدولة الإسلامية 7
+delete from contact_data where keyword = "أخبار الدولة الإسلامية" and user_id = 7
+Data Found: 69 منتديات النصرة الجهادية 7
+delete from contact_data where keyword = "منتديات النصرة الجهادية" and user_id = 7
+Data Found: 70 منتديات البراق 7
+delete from contact_data where keyword = "منتديات البراق" and user_id = 7
+Data Found: 71 شبكة حنين 7
+delete from contact_data where keyword = "شبكة حنين" and user_id = 7
+Data Found: 72 شبكة الزرقاوي الجهادية 7
+delete from contact_data where keyword = "شبكة الزرقاوي الجهادية" and user_id = 7
+Data Found: 73 وكالة الأنباء الإسلامية حق 7
+delete from contact_data where keyword = "وكالة الأنباء الإسلامية حق" and user_id = 7
+Data Found: 74 مؤسسة الفرقان الإعلامية 7
+delete from contact_data where keyword = "مؤسسة الفرقان الإعلامية" and user_id = 7
+Data Found: 75 مؤسسة الأعتصام 7
+delete from contact_data where keyword = "مؤسسة الأعتصام" and user_id = 7
+Data Found: 76 مركز الحياة 7
+delete from contact_data where keyword = "مركز الحياة" and user_id = 7
+Data Found: 77 مركز الفجر للإعلام 7
+delete from contact_data where keyword = "مركز الفجر للإعلام" and user_id = 7
+Data Found: 78 الغرباء للإعلام 7
+delete from contact_data where keyword = "الغرباء للإعلام" and user_id = 7
+Data Found: 79 ولاية بغداد 7
+delete from contact_data where keyword = "ولاية بغداد" and user_id = 7
+Data Found: 80 ولاية الأنبار 7
+delete from contact_data where keyword = "ولاية الأنبار" and user_id = 7
+Data Found: 82 ولاية حلب 7
+delete from contact_data where keyword = "ولاية حلب" and user_id = 7
+Data Found: 83 ولاية صلاح الدين 7
+delete from contact_data where keyword = "ولاية صلاح الدين" and user_id = 7
+Data Found: 84 ولاية الرقة 7
+delete from contact_data where keyword = "ولاية الرقة" and user_id = 7
+Data Found: 85 ولاية ديالى 7
+delete from contact_data where keyword = "ولاية ديالى" and user_id = 7
+Data Found: 86 ولاية كركوك 7
+delete from contact_data where keyword = "ولاية كركوك" and user_id = 7
+Data Found: 87 ولاية الجنوب 7
+delete from contact_data where keyword = "ولاية الجنوب" and user_id = 7
+Data Found: 88 ولاية نينوى 7
+delete from contact_data where keyword = "ولاية نينوى" and user_id = 7
+Data Found: 89 ولاية الجنوب، ولاية الخير 7
+delete from contact_data where keyword = "ولاية الجنوب، ولاية الخير" and user_id = 7
+Data Found: 90 ولاية الفرات 7
+delete from contact_data where keyword = "ولاية الفرات" and user_id = 7
+Data Found: 91 ولاية الفلوجة 7
+delete from contact_data where keyword = "ولاية الفلوجة" and user_id = 7
+Data Found: 92 أبو مسلم التركماني 7
+delete from contact_data where keyword = "أبو مسلم التركماني" and user_id = 7
+Data Found: 93 ذباح الجزراوي 7
+delete from contact_data where keyword = "ذباح الجزراوي" and user_id = 7
+Data Found: 94 ولاية نجد 7
+delete from contact_data where keyword = "ولاية نجد" and user_id = 7
+Data Found: 95 ولاية البركة 7
+delete from contact_data where keyword = "ولاية البركة" and user_id = 7
+Data Found: 96 منهاج النبوة 7
+delete from contact_data where keyword = "منهاج النبوة" and user_id = 7
+Data Found: 97 إمارة العراق الإسلامية 7
+delete from contact_data where keyword = "إمارة العراق الإسلامية" and user_id = 7
+Data Found: 98 جيش أبابيل 7
+delete from contact_data where keyword = "جيش أبابيل" and user_id = 7
+Data Found: 100 جيش المنصورة 7
+delete from contact_data where keyword = "جيش المنصورة" and user_id = 7
+Data Found: 101 جيش أنصار السنة 7
+delete from contact_data where keyword = "جيش أنصار السنة" and user_id = 7
+Data Found: 102 جيش عمر 7
+delete from contact_data where keyword = "جيش عمر" and user_id = 7
+Data Found: 103 سرايا الجهاد الإسلامي 7
+delete from contact_data where keyword = "سرايا الجهاد الإسلامي" and user_id = 7
+Data Found: 104 سرايا الغرباء 7
+delete from contact_data where keyword = "سرايا الغرباء" and user_id = 7
+Data Found: 105 سرايا الغضب الإسلامي 7
+delete from contact_data where keyword = "سرايا الغضب الإسلامي" and user_id = 7
+Data Found: 106 سربا أنصار المجاهدين 7
+delete from contact_data where keyword = "سربا أنصار المجاهدين" and user_id = 7
+Data Found: 107 سرايا أنصار التوحيد 7
+delete from contact_data where keyword = "سرايا أنصار التوحيد" and user_id = 7
+Data Found: 108 سرية ياسين البحر 7
+delete from contact_data where keyword = "سرية ياسين البحر" and user_id = 7
+Data Found: 109 كتائب الأهوال 7
+delete from contact_data where keyword = "كتائب الأهوال" and user_id = 7
+Data Found: 110 كتائب الجماعة السلفية المجاهدة 7
+delete from contact_data where keyword = "كتائب الجماعة السلفية المجاهدة" and user_id = 7
+Data Found: 111 كتائب سيف الله المسلول 7
+delete from contact_data where keyword = "كتائب سيف الله المسلول" and user_id = 7
+Data Found: 112 كتائب الرايات السود 7
+delete from contact_data where keyword = "كتائب الرايات السود" and user_id = 7
+Data Found: 113 مجلس شورى المجاهدين 7
+delete from contact_data where keyword = "مجلس شورى المجاهدين" and user_id = 7
+Data Found: 114 عملية عمر حديد 7
+delete from contact_data where keyword = "عملية عمر حديد" and user_id = 7
+Data Found: 115 أبو إدريس البلجيكي 7
+delete from contact_data where keyword = "أبو إدريس البلجيكي" and user_id = 7
+Data Found: 116 كتيبة عمرو العبسي 7
+delete from contact_data where keyword = "كتيبة عمرو العبسي" and user_id = 7
+Data Found: 117 Islamic State 7
+delete from contact_data where keyword = "Islamic State" and user_id = 7
+Data Found: 118 Dabiq 7
+delete from contact_data where keyword = "Dabiq" and user_id = 7
+Data Found: 119 Rumiyah 7
+delete from contact_data where keyword = "Rumiyah" and user_id = 7
+Data Found: 120 Abd al-Aziz al-Muqrin 7
+delete from contact_data where keyword = "Abd al-Aziz al-Muqrin" and user_id = 7
+Data Found: 121 Darul-Islam 7
+delete from contact_data where keyword = "Darul-Islam" and user_id = 7
+Data Found: 122 Mujahidin 7
+delete from contact_data where keyword = "Mujahidin" and user_id = 7
+Data Found: 123 Jihad 7
+delete from contact_data where keyword = "Jihad" and user_id = 7
+Data Found: 124 Caliphate 7
+delete from contact_data where keyword = "Caliphate" and user_id = 7
+Data Found: 125 Manhaj 7
+delete from contact_data where keyword = "Manhaj" and user_id = 7
+Data Found: 126 Islamic State News 7
+delete from contact_data where keyword = "Islamic State News" and user_id = 7
+Data Found: 127 Islamic State Report 7
+delete from contact_data where keyword = "Islamic State Report" and user_id = 7
+Data Found: 128 Al-Himma Library 7
+delete from contact_data where keyword = "Al-Himma Library" and user_id = 7
+Data Found: 129 Soviet-Afghan War 7
+delete from contact_data where keyword = "Soviet-Afghan War" and user_id = 7
+Data Found: 130 mujahideen war 7
+delete from contact_data where keyword = "mujahideen war" and user_id = 7
+Data Found: 131 mujahideen 7
+delete from contact_data where keyword = "mujahideen" and user_id = 7
+Data Found: 132 Nida’ul Islam 7
+delete from contact_data where keyword = "Nida’ul Islam" and user_id = 7
+Data Found: 133 Shaikh Osama Bin Laden 7
+delete from contact_data where keyword = "Shaikh Osama Bin Laden" and user_id = 7
+Data Found: 134 Al-Qaeda in the Arabian Peninsula 7
+delete from contact_data where keyword = "Al-Qaeda in the Arabian Peninsula" and user_id = 7
+Data Found: 135 Inspire magazine 7
+delete from contact_data where keyword = "Inspire magazine" and user_id = 7
+Data Found: 136 Jihad Recollections 7
+delete from contact_data where keyword = "Jihad Recollections" and user_id = 7
+Data Found: 137 Anwar Al-Awlak 7
+delete from contact_data where keyword = "Anwar Al-Awlak" and user_id = 7
+Data Found: 138 Shaam’s Al-Risalah 7
+delete from contact_data where keyword = "Shaam’s Al-Risalah" and user_id = 7
+Data Found: 139 Azan 7
+delete from contact_data where keyword = "Azan" and user_id = 7
+Data Found: 140 As-Sahab media 7
+delete from contact_data where keyword = "As-Sahab media" and user_id = 7
+Data Found: 141 Nusayriyyah 7
+delete from contact_data where keyword = "Nusayriyyah" and user_id = 7
+Data Found: 142 ABU AASIM AL-LIBI 7
+delete from contact_data where keyword = "ABU AASIM AL-LIBI" and user_id = 7
+Data Found: 143 AL-HIRAKI VILLAGE 7
+delete from contact_data where keyword = "AL-HIRAKI VILLAGE" and user_id = 7
+Data Found: 144 Ar-Raqqah 7
+delete from contact_data where keyword = "Ar-Raqqah" and user_id = 7
+Data Found: 145 Shaikh AbulHawraa’ Al-Jazaa’iri 7
+delete from contact_data where keyword = "Shaikh AbulHawraa’ Al-Jazaa’iri" and user_id = 7
+Data Found: 146 Tawaghit 7
+delete from contact_data where keyword = "Tawaghit" and user_id = 7
+Data Found: 147 Asadullah Al-Bilawi 7
+delete from contact_data where keyword = "Asadullah Al-Bilawi" and user_id = 7
+Data Found: 148 the Islamic State of Iraq and Sham 7
+delete from contact_data where keyword = "the Islamic State of Iraq and Sham" and user_id = 7
+Data Found: 149 Al Hayat Media Center 7
+delete from contact_data where keyword = "Al Hayat Media Center" and user_id = 7
+Data Found: 150 jama’ah 7
+delete from contact_data where keyword = "jama’ah" and user_id = 7
+Data Found: 151 Malahim 7
+delete from contact_data where keyword = "Malahim" and user_id = 7
+Data Found: 152 the land of Malahim 7
+delete from contact_data where keyword = "the land of Malahim" and user_id = 7
+Data Found: 153 muhajirin 7
+delete from contact_data where keyword = "muhajirin" and user_id = 7
+Data Found: 154 Bayats 7
+delete from contact_data where keyword = "Bayats" and user_id = 7
+Data Found: 155 Murtadd 7
+delete from contact_data where keyword = "Murtadd" and user_id = 7
+Data Found: 156 Khilafah 7
+delete from contact_data where keyword = "Khilafah" and user_id = 7
+Data Found: 157 Wilayat 7
+delete from contact_data where keyword = "Wilayat" and user_id = 7
+Data Found: 158 Wilayat Al-Anbar 7
+delete from contact_data where keyword = "Wilayat Al-Anbar" and user_id = 7
+Data Found: 159 Al-Qa’dah of Waziristan 7
+delete from contact_data where keyword = "Al-Qa’dah of Waziristan" and user_id = 7
+Data Found: 160 wilayat in Libya 7
+delete from contact_data where keyword = "wilayat in Libya" and user_id = 7
+Data Found: 161 Al-Qaeda in Yemen and South Asia 7
+delete from contact_data where keyword = "Al-Qaeda in Yemen and South Asia" and user_id = 7
+Data Found: 162 Umm Basir Al-Muhajirah 7
+delete from contact_data where keyword = "Umm Basir Al-Muhajirah" and user_id = 7
+Data Found: 163 The Bay’ah 7
+delete from contact_data where keyword = "The Bay’ah" and user_id = 7
+Data Found: 164 The flags of Jahiliyyah 7
+delete from contact_data where keyword = "The flags of Jahiliyyah" and user_id = 7
+Data Found: 165 Jahiliyyah 7
+delete from contact_data where keyword = "Jahiliyyah" and user_id = 7
+Data Found: 166 Kuffar 7
+delete from contact_data where keyword = "Kuffar" and user_id = 7
+Data Found: 167 battle of al-Ahzab 7
+delete from contact_data where keyword = "battle of al-Ahzab" and user_id = 7
+Data Found: 168 A jihad without fighting 7
+delete from contact_data where keyword = "A jihad without fighting" and user_id = 7
+Data Found: 169 The death of Mullah Omar 7
+delete from contact_data where keyword = "The death of Mullah Omar" and user_id = 7
+Data Found: 170 Shaikh Mullah Omar the global ummah 7
+delete from contact_data where keyword = "Shaikh Mullah Omar the global ummah" and user_id = 7
+Data Found: 171 Kafir ations 7
+delete from contact_data where keyword = "Kafir ations" and user_id = 7
+Data Found: 172 The best shuhada 7
+delete from contact_data where keyword = "The best shuhada" and user_id = 7
+Data Found: 173 Shuhada 7
+delete from contact_data where keyword = "Shuhada" and user_id = 7
+Data Found: 174 the Amir of the Khilafah’s 7
+delete from contact_data where keyword = "the Amir of the Khilafah’s" and user_id = 7
+Data Found: 175 Abu Hamzah al-Muhajir 7
+delete from contact_data where keyword = "Abu Hamzah al-Muhajir" and user_id = 7
+Data Found: 176 Mushrikin 7
+delete from contact_data where keyword = "Mushrikin" and user_id = 7
+Data Found: 177 Amirul-Muminin 7
+delete from contact_data where keyword = "Amirul-Muminin" and user_id = 7
+Data Found: 178 Shahada of the Mujahid Shaykh 7
+delete from contact_data where keyword = "Shahada of the Mujahid Shaykh" and user_id = 7
+Data Found: 179 Wala and Bara 7
+delete from contact_data where keyword = "Wala and Bara" and user_id = 7
+Data Found: 180 Amir of Hims Wilayah 7
+delete from contact_data where keyword = "Amir of Hims Wilayah" and user_id = 7
+Data Found: 181 ghanimah 7
+delete from contact_data where keyword = "ghanimah" and user_id = 7
+Data Found: 182 fay 7
+delete from contact_data where keyword = "fay" and user_id = 7
+Data Found: 183 and ihtitab 7
+delete from contact_data where keyword = "and ihtitab" and user_id = 7
+Data Found: 184 Tanzim Qa’idat Al-Jihad 7
+delete from contact_data where keyword = "Tanzim Qa’idat Al-Jihad" and user_id = 7
+Data Found: 185 The Muwahhidun 7
+delete from contact_data where keyword = "The Muwahhidun" and user_id = 7
+Data Found: 186 Shaykh Scholar-Mujahid 7
+delete from contact_data where keyword = "Shaykh Scholar-Mujahid" and user_id = 7
+Data Found: 187 Abdallah Al-Muhajir’ 7
+delete from contact_data where keyword = "Abdallah Al-Muhajir’" and user_id = 7
+Data Found: 188 dar al-Kuf 7
+delete from contact_data where keyword = "dar al-Kuf" and user_id = 7
+Data Found: 189 lone jihad 7
+delete from contact_data where keyword = "lone jihad" and user_id = 7
+Data Found: 190 lone mujahid 7
+delete from contact_data where keyword = "lone mujahid" and user_id = 7
+Data Found: 191 Nikayah 7
+delete from contact_data where keyword = "Nikayah" and user_id = 7
+Data Found: 192 Tawahhush 7
+delete from contact_data where keyword = "Tawahhush" and user_id = 7
+Data Found: 193 Tamkin 7
+delete from contact_data where keyword = "Tamkin" and user_id = 7
+Data Found: 194 Fitnah 7
+delete from contact_data where keyword = "Fitnah" and user_id = 7
+Data Found: 195 al-salaf al-salih 7
+delete from contact_data where keyword = "al-salaf al-salih" and user_id = 7
+Data Found: 196 bida 7
+delete from contact_data where keyword = "bida" and user_id = 7
+Data Found: 197 Shahada 7
+delete from contact_data where keyword = "Shahada" and user_id = 7
+Data Found: 198 Jizya 7
+delete from contact_data where keyword = "Jizya" and user_id = 7
+Data Found: 199 jihad al-daf 7
+delete from contact_data where keyword = "jihad al-daf" and user_id = 7
+Data Found: 200 Shaikh Ayman al-Zawahiri 7
+delete from contact_data where keyword = "Shaikh Ayman al-Zawahiri" and user_id = 7
+Data Found: 281 william_hamdan 7
+delete from contact_data where keyword = "william_hamdan" and user_id = 7
+Data Found: 282 hura__l 7
+delete from contact_data where keyword = "hura__l" and user_id = 7
+Data Found: 283 hzam_nasf 7
+delete from contact_data where keyword = "hzam_nasf" and user_id = 7
+Data Found: 284 medo_2911 7
+delete from contact_data where keyword = "medo_2911" and user_id = 7
+Data Found: 285 Ghadahassanien 7
+delete from contact_data where keyword = "Ghadahassanien" and user_id = 7
+Data Found: 286 esam1alkordi 7
+delete from contact_data where keyword = "esam1alkordi" and user_id = 7
+Data Found: 287 islam_mansour73 7
+delete from contact_data where keyword = "islam_mansour73" and user_id = 7
+Data Found: 288 alkndy_isis 7
+delete from contact_data where keyword = "alkndy_isis" and user_id = 7
+Data Found: 289 lion_isis 7
+delete from contact_data where keyword = "lion_isis" and user_id = 7
+Data Found: 290 Serat2015 7
+delete from contact_data where keyword = "Serat2015" and user_id = 7
+Data Found: 291 bofayez2011 7
+delete from contact_data where keyword = "bofayez2011" and user_id = 7
+Data Found: 292 Wally_M 7
+delete from contact_data where keyword = "Wally_M" and user_id = 7
+Data Found: 293 Fooj_58 7
+delete from contact_data where keyword = "Fooj_58" and user_id = 7
+Data Found: 294 Jalaaad_alshi3a 7
+delete from contact_data where keyword = "Jalaaad_alshi3a" and user_id = 7
+Data Found: 295 kuwaity_q8 7
+delete from contact_data where keyword = "kuwaity_q8" and user_id = 7
+Data Found: 296 _mediajihad. almohamadi_ISIS 7
+delete from contact_data where keyword = "_mediajihad. almohamadi_ISIS" and user_id = 7
+Data Found: 297 islamicState007 7
+delete from contact_data where keyword = "islamicState007" and user_id = 7
+Data Found: 298 ILelo07 7
+delete from contact_data where keyword = "ILelo07" and user_id = 7
+Data Found: 299 Khattab_hmdani 7
+delete from contact_data where keyword = "Khattab_hmdani" and user_id = 7
+Data Found: 300 Ajnad29 7
+delete from contact_data where keyword = "Ajnad29" and user_id = 7
+Data Found: 301 mus1mTV 7
+delete from contact_data where keyword = "mus1mTV" and user_id = 7
+Data Found: 302 IAsawirtiMediaI 7
+delete from contact_data where keyword = "IAsawirtiMediaI" and user_id = 7
+Data Found: 303 dawlh1435h 7
+delete from contact_data where keyword = "dawlh1435h" and user_id = 7
+Data Found: 304 JehadNews 7
+delete from contact_data where keyword = "JehadNews" and user_id = 7
+Data Found: 305 hawan_islam 7
+delete from contact_data where keyword = "hawan_islam" and user_id = 7
+Data Found: 306 mojhedah9 7
+delete from contact_data where keyword = "mojhedah9" and user_id = 7
+Data Found: 307 alAnsari0jehad 7
+delete from contact_data where keyword = "alAnsari0jehad" and user_id = 7
+Data Found: 308 brkan_alkazerah 7
+delete from contact_data where keyword = "brkan_alkazerah" and user_id = 7
+Data Found: 309 monaser_ngd 7
+delete from contact_data where keyword = "monaser_ngd" and user_id = 7
+Data Found: 310 shamdarislam 7
+delete from contact_data where keyword = "shamdarislam" and user_id = 7
+Data Found: 311 Taliban_soldier 7
+delete from contact_data where keyword = "Taliban_soldier" and user_id = 7
+Data Found: 312 om_mujahid12 7
+delete from contact_data where keyword = "om_mujahid12" and user_id = 7
+Data Found: 313 MohajerAseer 7
+delete from contact_data where keyword = "MohajerAseer" and user_id = 7
+Data Found: 314 asawirtiMedia0l 7
+delete from contact_data where keyword = "asawirtiMedia0l" and user_id = 7
+Data Found: 315 Qaswrah1 7
+delete from contact_data where keyword = "Qaswrah1" and user_id = 7
+Data Found: 316 m7arb_tmim 7
+delete from contact_data where keyword = "m7arb_tmim" and user_id = 7
+Data Found: 317 Muhajer2013 7
+delete from contact_data where keyword = "Muhajer2013" and user_id = 7
+Data Found: 318 bent_AlDawla 7
+delete from contact_data where keyword = "bent_AlDawla" and user_id = 7
+Data Found: 319 Sahwat_News 7
+delete from contact_data where keyword = "Sahwat_News" and user_id = 7
+Data Found: 320 DolatEl_Islam 7
+delete from contact_data where keyword = "DolatEl_Islam" and user_id = 7
+Data Found: 321 JoondiElkhilafa 7
+delete from contact_data where keyword = "JoondiElkhilafa" and user_id = 7
+Data Found: 322 shomokh1404 7
+delete from contact_data where keyword = "shomokh1404" and user_id = 7
+Data Found: 323 MinhajNubuwa 7
+delete from contact_data where keyword = "MinhajNubuwa" and user_id = 7
+Data Found: 324  7
+delete from contact_data where keyword = "" and user_id = 7
+Data Found: 823 قيس، خالد، 7
+delete from contact_data where keyword = "قيس، خالد،" and user_id = 7
+Data Found: 845 قنقن 7
+delete from contact_data where keyword = "قنقن" and user_id = 7
+Data Found: 846 فات 7
+delete from contact_data where keyword = "فات" and user_id = 7
+Data Found: 847 هاشم 7
+delete from contact_data where keyword = "هاشم" and user_id = 7
+Crawler was running on no keywords shutting down

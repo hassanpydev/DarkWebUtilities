@@ -1,0 +1,25 @@
+Traceback (most recent call last):
+  File "/DarkWebUtilities/Run.py", line 10, in <module>
+    from DarkWebHelpers.DataBuffer.TempDataHolder import CollectData
+  File "/DarkWebUtilities/DarkWebHelpers/DataBuffer/TempDataHolder.py", line 92
+    self.totalLinks = []
+                       ^
+TabError: inconsistent use of tabs and spaces in indentation
+Traceback (most recent call last):
+  File "/DarkWebUtilities/Run.py", line 10, in <module>
+    from DarkWebHelpers.DataBuffer.TempDataHolder import CollectData
+  File "/DarkWebUtilities/DarkWebHelpers/DataBuffer/TempDataHolder.py", line 92
+    self.totalLinks = []
+                       ^
+TabError: inconsistent use of tabs and spaces in indentation
+Traceback (most recent call last):
+  File "/DarkWebUtilities/Run.py", line 10, in <module>
+    from DarkWebHelpers.DataBuffer.TempDataHolder import CollectData
+  File "/DarkWebUtilities/DarkWebHelpers/DataBuffer/TempDataHolder.py", line 92
+    self.totalLinks = []
+                       ^
+TabError: inconsistent use of tabs and spaces in indentation
+Traceback (most recent call last):
+  File "/DarkWebUtilities/Run.py", line 10, in <module>
+    from DarkWebHelpers.DataBuffer.TempDataHolder import RunMoveToDB
+ImportError: cannot import name 'RunMoveToDB' from 'DarkWebHelpers.DataBuffer.TempDataHolder' (/DarkWebUtilities/DarkWebHelpers/DataBuffer/TempDataHolder.py)

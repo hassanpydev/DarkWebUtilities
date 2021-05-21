@@ -1,0 +1,14 @@
+from DarkWebHelpers.GetSiteContent.ContentFetcher import SiteContent
+import sys
+import argparse
+
+args = argparse.ArgumentParser()
+args.add_argument('-l', type=str, required=True)
+parser = args.parse_args()
+if parser.l:
+    content = SiteContent()
+	
+    sys.stdout.write(str(content.SendContent(url=parser.l)))
+    
+else:
+    sys.stderr.write("You must specify a Link!")
