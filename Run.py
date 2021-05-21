@@ -28,6 +28,7 @@ keywords = db_manger.ReadWhere(Code_Translator().Unsearched)
 len_data = int()
 moveToDB = CollectData()
 
+
 class Config(AppConfigurations):
     DEBUG = True
 
@@ -184,11 +185,13 @@ if __name__ == '__main__':
                 # Invoke Loop Function
             processTracker.ChangeStatus('off')
             DeleteDuplicate()
-            moveToDB.Run()
+
 
         else:
             processTracker.ChangeStatus('off')
             exit(0)
+
     else:
         print("Exited with unknown status")
         exit(-1)
+    moveToDB.Run()
