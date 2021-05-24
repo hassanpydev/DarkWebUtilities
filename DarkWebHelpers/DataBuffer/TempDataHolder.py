@@ -102,11 +102,11 @@ class CollectData:
         self.user_id = user_id
         self.totalLinks = int()
         self.statistics = {self.keyword: {
-            "NumberOVideos": 1,
-            "NumberOfImages": 1,
-            "NumberOfEmails": 1,
-            "NumberOfPhones": 1,
-            "NumberOfBTC": 1
+            "NumberOVideos": 0,
+            "NumberOfImages": 0,
+            "NumberOfEmails": 0,
+            "NumberOfPhones": 0,
+            "NumberOfBTC": 0
         }}
 
         self.metadata = {self.keyword: {"Emails": list(),
