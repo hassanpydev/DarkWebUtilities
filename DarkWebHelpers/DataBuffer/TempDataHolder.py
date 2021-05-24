@@ -8,6 +8,7 @@ from DarkWebHelpers.db.DB_Handler import SQL_Manger, Code_Translator
 
 config = AppConfigurations()
 
+
 def CountImages(keyword):
     counter = 0
     for root, folder, files in os.walk(
@@ -16,6 +17,8 @@ def CountImages(keyword):
             if not file.endswith('.json'):
                 counter += 1
     return counter
+
+
 class CalculateData:
     def __init__(self, phones: int, site_numbers: int, emails: int, btc: int):
         self.phones = phones
@@ -40,18 +43,8 @@ class CalculateData:
         return self.btc / self.total_site_numbers * 100.00
 
 
-def CountImages(keyword):
-    counter = 0
-    for root, folder, files in os.walk(
-            config.GetMeMainPath(keyword)):
-        for file in files:
-            if not file.endswith('.json'):
-                counter += 1
-    return counter
-
-
 class FacilitateData:
-    def __init__(self, metadata: dict = None, statistics: dict = None,keyword: str = None):
+    def __init__(self, metadata: dict = None, statistics: dict = None, keyword: str = None):
         self.keyword = keyword
         self.statistics = statistics
         self.metadata = metadata
@@ -137,7 +130,8 @@ class CollectData:
             self.statistics = dict({self.keyword: dict(processed_data)})
 
     def TransferData(self):
-        result = FacilitateData(statistics=self.statistics.get(self.keyword), metadata=self.metadata.get(self.keyword),keyword=self.keyword)
+        result = FacilitateData(statistics=self.statistics.get(self.keyword), metadata=self.metadata.get(self.keyword),
+                                keyword=self.keyword)
         # math = CalculateData(result.Total_Phones_numbers, 200, result.Total_Emails_numbers, result.Total_BTC_numbers)
         contact_data = SQL_Manger()
         if contact_data.CheckIfKeyWordExist(self.keyword, self.user_id):
