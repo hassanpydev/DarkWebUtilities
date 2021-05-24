@@ -49,25 +49,29 @@ class FacilitateData:
         self.statistics = statistics
         self.metadata = metadata
 
+    @staticmethod
+    def __returnZeroIfNone(obj):
+        return 0 if not obj else obj
+
     @property
     def Total_BTC_numbers(self):
-        return self.statistics.get('NumberOfBTC')
+        return self.__returnZeroIfNone(self.statistics.get('NumberOfBTC'))
 
     @property
     def Total_Images_numbers(self):
-        return CountImages(self.keyword)
+        return CountImages(self.keyword) if not None else 0
 
     @property
     def Total_Emails_numbers(self):
-        return self.statistics.get('NumberOfEmails')
+        return self.__returnZeroIfNone(self.statistics.get('NumberOfEmails'))
 
     @property
     def Total_Phones_numbers(self):
-        return self.statistics.get('NumberOfPhones')
+        return self.__returnZeroIfNone(self.statistics.get('NumberOfPhones'))
 
     @property
     def Total_Videos_numbers(self):
-        return self.statistics.get('NumberOVideos')
+        return self.__returnZeroIfNone(self.statistics.get('NumberOVideos'))
 
     @property
     def list_of_emails(self):
@@ -139,7 +143,7 @@ class CollectData:
             config.debug("Old data Has Been Deleted Data")
             contact_data.InsertTotalResults(self.keyword, str(result.list_of_emails), str(result.list_of_Phones),
                                             str(result.list_of_Videos), str(result.list_of_btc),
-                                            int(result.Total_BTC_numbers),
+                                            result.Total_BTC_numbers,
                                             result.Total_Emails_numbers, result.Total_Videos_numbers,
                                             result.Total_Phones_numbers, result.Total_Images_numbers,
                                             self.totalLinks, 0, 0,
@@ -148,7 +152,7 @@ class CollectData:
         else:
             contact_data.InsertTotalResults(self.keyword, str(result.list_of_emails), str(result.list_of_Phones),
                                             str(result.list_of_Videos), str(result.list_of_btc),
-                                            int(result.Total_BTC_numbers),
+                                            result.Total_BTC_numbers,
                                             result.Total_Emails_numbers, result.Total_Videos_numbers,
                                             result.Total_Phones_numbers, result.Total_Images_numbers,
                                             480, 0, 0,
