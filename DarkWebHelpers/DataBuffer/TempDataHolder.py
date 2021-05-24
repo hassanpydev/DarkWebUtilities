@@ -149,8 +149,8 @@ class CollectData:
             contact_data.InsertTotalResults(self.keyword, str(result.list_of_emails), str(result.list_of_Phones),
                                             str(result.list_of_Videos), str(result.list_of_btc),
                                             result.Total_BTC_numbers - 1,
-                                            result.Total_Emails_numbers - 1, result.Total_Videos_numbers - 1,
-                                            result.Total_Phones_numbers - 1, result.Total_Images_numbers - 1,
+                                            result.Total_Emails_numbers, result.Total_Videos_numbers,
+                                            result.Total_Phones_numbers, result.Total_Images_numbers,
                                             480, 0, 0,
                                             0, 0, self.user_id, datetime.datetime.utcnow(), datetime.datetime.utcnow(),
                                             self.key_id)
