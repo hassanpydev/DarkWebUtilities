@@ -139,7 +139,7 @@ class CollectData:
             config.debug("Old data Has Been Deleted Data")
             contact_data.InsertTotalResults(self.keyword, str(result.list_of_emails), str(result.list_of_Phones),
                                             str(result.list_of_Videos), str(result.list_of_btc),
-                                            result.Total_BTC_numbers,
+                                            int(result.Total_BTC_numbers),
                                             result.Total_Emails_numbers, result.Total_Videos_numbers,
                                             result.Total_Phones_numbers, result.Total_Images_numbers,
                                             self.totalLinks, 0, 0,
@@ -148,7 +148,7 @@ class CollectData:
         else:
             contact_data.InsertTotalResults(self.keyword, str(result.list_of_emails), str(result.list_of_Phones),
                                             str(result.list_of_Videos), str(result.list_of_btc),
-                                            result.Total_BTC_numbers,
+                                            int(result.Total_BTC_numbers),
                                             result.Total_Emails_numbers, result.Total_Videos_numbers,
                                             result.Total_Phones_numbers, result.Total_Images_numbers,
                                             480, 0, 0,
